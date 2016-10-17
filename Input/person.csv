@@ -1,0 +1,814 @@
+Id,EmploymentStartDate,EmploymentEndDate,MaritalStatusId,OfficeId,LegalEntityId,EmploymentTypeId,SuperiorId,EmployeeCategoryId,AcademicTitle,JobTitle,GenderId,BirthDate,NationalityId
+1,8/1/2007,NULL,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,54,Senior,,Project Lead,Male,10/19/1975,Slovakia
+3,2/1/2008,11/30/2013,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Professional,Bachelor in Software Creation,Software Engineer,Male,4/28/1977,Slovakia
+5,2/1/2001,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,167,Senior,Dipl. Inf. Ing. FH,Senior,Male,5/7/1971,Switzerland
+7,2/1/2003,12/31/2014,Married,Swiss Engineering Insititute,Swiss Engineering Institute AG,Full Time,159,Principal,Dipl. El.-Ing. ETH,,Male,5/17/1966,Switzerland
+8,3/1/2003,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,331,SeniorPrincipal,Dipl. Inf. Ing. HTL,Dipl. Wirtschaftsing. STV; Senior Principal,Male,8/13/1965,Switzerland
+9,2/16/2004,NULL,Married,ERNI Management Services AG,ERNI Management Services AG,Full Time,568,Other,,,Male,1/10/1969,Switzerland
+10,4/1/2004,12/31/2015,Single,ERNI Consulting AG,ERNI Management Services AG,Full Time,43,ManagingDirector,Dipl. Ing. FH,MBA,Male,6/2/1974,Switzerland
+12,11/1/2005,8/31/2012,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,92,Professional,"Dipl. El. Ing. HTL, Informatiker NDS FH",,Male,7/9/1975,Croatia
+13,3/15/2006,NULL,Single,ERNI Consulting AG,ERNI Management Services AG,Full Time,43,SeniorPrincipal,"M. Sc., EMBA",,Male,1/22/1970,Switzerland
+15,9/18/2006,12/31/2015,Single,ERNI Consulting AG,ERNI Management Services AG,Full Time,568,Other,,,Male,10/19/1971,Switzerland
+17,2/19/2007,12/31/2014,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,BusinessUnitLeader,"Dipl. El. Ing. FH, Senior",,Male,12/20/1978,Switzerland
+18,2/1/2007,6/30/2012,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,170,Professional,Eidg. Dipl. Informatik Ing. FH,Software-Ingenieur,Male,8/28/1980,Switzerland
+20,5/1/2007,7/31/2015,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,878,BusinessUnitLeader,"Dipl. El. Ing. ETH, exec. MBA",,Male,2/4/1968,Switzerland
+21,3/1/2007,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,8,Principal,"Executive MBA, Inf. Ing. FH",Business Unit Leader,Male,9/20/1980,Switzerland
+22,4/1/2007,10/31/2012,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,BusinessUnitLeader,"Dipl. Inf. Ing. FH, Senior Consultant",Business Unit Leader,Male,9/19/1975,Switzerland
+23,4/1/2007,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,156,Senior,Dipl. Inform. Uni Zürich (Wirtschaftinformatik),Master of Business Computer Sciences,Male,10/10/1979,Switzerland
+25,11/19/2007,7/31/2015,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,888,Senior,Executive Master ICT,,Male,NULL,Switzerland
+26,9/24/2007,10/4/2013,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,174,Senior,Dipl. Ing. FH,Senior,Female,9/29/1978,Switzerland
+28,12/1/2007,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,878,Senior,Dipl. Inf. Ing. FH / MAS Business Process Eng.,,Male,4/16/1974,Switzerland
+29,9/10/2007,9/30/2013,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,458,Other,,,Female,6/9/1976,Germany
+34,5/15/2007,5/31/2014,Single,ERNI Management Services AG,ERNI Management Services AG,Full Time,NULL,Other,lic. phil. I,Head of Corporate Communication,Male,3/1/1971,Switzerland
+35,6/15/1996,6/30/2015,Single,ERNI Consulting AG,ERNI Management Services AG,Full Time,NULL,Other,,,Male,3/25/1961,Switzerland
+36,4/1/1997,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,8,Senior,Dipl. El. Ing. HTL,Senior Engineer,Male,3/13/1963,Switzerland
+38,8/1/2005,2/28/2013,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Senior,Dipl. Inf. Ing. FH,,Male,5/26/1978,Switzerland
+39,10/1/2006,8/31/2014,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,20,Senior,Dipl. Ing. Inf. FH,Software Engineer,Male,11/28/1976,Switzerland
+40,5/1/2007,9/30/2012,Single,ERNI Management Services AG,ERNI Management Services AG,Full Time,35,Other,,,Female,1/21/1979,Switzerland
+42,9/1/2007,5/31/2012,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,94,Senior,Master of Science in Wirtschaftsinformatik,,Male,7/31/1979,Switzerland
+43,9/1/2004,NULL,Married,ERNI Consulting AG,ERNI Management Services AG,Full Time,NULL,ManagingDirector,Dipl. El. Ing. HTL,Executive MBA HSG,Male,7/15/1972,Switzerland
+44,9/1/2007,4/30/2015,Single,ERNI Management Services AG,ERNI Management Services AG,Full Time,628,Other,HR Fachfrau mit eidg. Fachausweis,,Female,5/6/1979,Switzerland
+45,11/1/2005,12/31/2014,Married,ERNI Consulting AG,Swiss Engineering Institute AG,Full Time,159,Other,MAS Business IT,Coach & Trainer,Male,3/7/1975,Switzerland
+46,2/12/2007,4/30/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,331,Other,,,Female,8/8/1968,Switzerland
+47,4/1/2006,8/31/2012,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,49,Senior,Dipl. Ing. FH,Software Engineer,Male,2/20/1980,Switzerland
+48,5/1/2007,12/31/2014,Married,Swiss Engineering Insititute,Swiss Engineering Institute AG,Full Time,35,BusinessAreaManager,Lic. oec. HSG.,Business Area Manager,Male,3/5/1978,Switzerland
+49,6/1/2007,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,331,BusinessAreaManager,"Dipl. Inf.-Ing. FH, EMBA",Principal Consultant,Male,9/26/1977,Switzerland
+50,1/1/2012,NULL,Single,"ERNI Consulting España, S. L. U.",ERNI Consulting AG,Full Time,155,Senior,"dipl. Ing. FH, Systemtechnik",,Male,1/18/1982,Switzerland
+51,6/1/2014,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,49,BusinessUnitLeader,EMBA Innovation Management,Business Unit Leader,Male,5/9/1971,Switzerland
+52,10/22/2007,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,51,Senior,Dipl. El-Ing. HTL,Senior,Male,5/4/1972,Switzerland
+53,9/1/2005,12/31/2015,Married,ERNI Consulting AG,People Business AG,Full Time,NULL,ManagingDirector,"Informatiker mit Eidg. FA Project Services, Dipl.",,Male,4/29/1978,Switzerland
+54,4/1/2008,NULL,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,103,ServiceUnitLeader,Master of Science in Electronics,Senior Engineer,Male,9/12/1973,Slovakia
+56,4/1/2008,12/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Professional,Master of Computer Science,Engineer,Male,1/14/1984,Slovakia
+57,10/1/2008,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,103,ServiceUnitLeader,Master of Economic Informatics,Software Engineer,Male,8/23/1985,Slovakia
+64,6/1/2008,2/29/2012,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Senior,Dipl. Inform.,Senior Consultant,Male,8/13/1981,Germany
+65,2/1/2013,12/31/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,49,Principal,Dipl. Ing. ETH,Senior Consultant,Male,9/4/1968,Switzerland
+69,1/1/2009,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,103,ServiceUnitLeader,Ing. - Informatics,,Male,3/23/1982,Slovakia
+70,11/1/2008,5/31/2014,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Senior,Dipl. Ing. (BA),,Male,5/20/1979,Germany
+73,5/1/2009,8/30/2012,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Junior,Master of Economic Sciences,,Male,5/7/1982,Slovakia
+74,10/1/2008,12/31/2014,Married,ERNI Consulting AG,ERNI Consulting AG,Part Time,888,Senior,MSc in Wirtschaftsinformatik UniZH,Consultant,Male,3/23/1982,Switzerland
+76,9/1/2008,9/30/2013,Single,ERNI Consulting AG,ERNI Singapore Pte. Ltd.,Full Time,10,Other,B.Sc. in Computer Science FH,Business Unit Leader,Male,9/28/1981,Switzerland
+77,7/1/2009,12/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Senior,Ing.,,Male,4/17/1982,Slovakia
+78,9/1/2009,9/30/2015,Married,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,43,ManagingDirector,Dipl.-Ing. (FH) ET,Managing Director,Male,5/10/1966,Germany
+81,9/1/2009,12/31/2014,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Senior,RNDr.,Senior Software Engineer & Team leader,Male,10/3/1978,Slovakia
+84,6/1/2009,8/31/2014,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,349,ManagingDirector,Ing.,CUL,Male,1/28/1980,Slovakia
+90,11/1/2009,3/31/2012,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,100,Senior,Diplomierter Informatik Ingenieur ETH,,Male,2/11/1978,Switzerland
+92,1/1/2010,3/31/2014,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,BusinessUnitLeader,Dipl. El. Ing. FH,MBA,Male,10/17/1964,Switzerland
+94,1/18/2010,12/31/2012,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,BusinessUnitLeader,Dipl. El Ing. HTL,,Male,1/27/1961,Switzerland
+96,6/1/2010,12/31/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,156,Professional,Wirtschaftsinformatiker FH,,Male,1/1/1988,Switzerland
+101,7/1/2010,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,694,Professional,Bachelor of Science,,Male,4/18/1987,Switzerland
+102,7/1/2010,10/31/2015,Single,ERNI Consulting AG,People Business AG,Full Time,53,Senior,Dipl. Inf. Ing. FH,Professional,Male,9/9/1986,Switzerland
+103,7/1/2010,NULL,Single,ERNI Slovakia s.r.o.,ERNI Management Services AG,Full Time,13,ServiceAreaManager,Diplom Informatiker (FH),Service Area Manager,Male,1/20/1977,Germany
+104,5/17/2010,NULL,Single,"ERNI Consulting España, S. L. U.",ERNI Management Services AG,Full Time,43,ServiceAreaManager,"Dr. sc. techn., dipl. Informatik. Ing. ETH",,Male,7/23/1974,Switzerland
+105,7/1/2010,6/30/2014,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,170,Senior,MSc. Dipl. Ing.,,Male,2/2/1981,Germany
+106,8/1/2010,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,878,Senior,Master of Science UZH,,Male,10/9/1978,Switzerland
+107,6/14/2010,1/31/2015,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,170,Senior,Dipl. Inf.(FH),,Male,3/26/1978,Germany
+108,7/1/2010,2/28/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,127,Professional,Master of  Science,,Male,4/7/1987,Slovakia
+110,4/1/2010,6/30/2012,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,17,Junior,M. Sc. BA,,Male,5/9/1984,Switzerland
+111,7/19/2010,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,878,Senior,Dipl.-Inform. Med.,,Male,NULL,Germany
+112,9/1/2010,4/4/2016,Single,ERNI Consulting AG,ERNI Development Center Philippines Inc.,Full Time,922,Senior,,,Male,9/4/1980,Switzerland
+113,9/27/2010,12/31/2012,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,92,Professional,Dipl. Informatikingenieur TH (ETH),,Male,5/9/1979,Italy
+115,8/1/2010,1/31/2013,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Senior,MAS Information Technology,,Male,2/18/1977,Switzerland
+116,8/9/2010,8/8/2013,Single,ERNI Management Services AG,ERNI Management Services AG,Trainee,349,Other,,,Female,4/1/1994,Switzerland
+117,5/19/2010,9/30/2013,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,193,Senior,"Bachelor of Economics, BEc",,Male,5/9/1976,Switzerland
+118,11/1/2010,1/31/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,49,Professional,Bachelor of Science in System Technologie,,Male,7/2/1984,Italy
+119,10/1/2010,9/30/2015,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,193,Principal,Eidg. dipl. Wirtschaftsinformatiker,MAS Human Computer Interaction Design,Male,3/26/1971,Switzerland
+120,9/1/2010,4/30/2012,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Principal,Mgr.,,Male,6/29/1971,Slovakia
+122,10/1/2010,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,103,Principal,Dipl. Ing.,Principal .NET Software Engineer,Male,10/22/1979,Slovakia
+124,2/1/2011,5/31/2012,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,17,Senior,Dipl. Ing. FH Informatik,,Male,1/28/1981,Switzerland
+125,2/1/2011,1/31/2013,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Senior,"Bachelor of Arts, Senior Consultant",,Male,5/13/1969,Germany
+126,1/1/2011,9/30/2013,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,170,Professional,BSc FHO,Junior,Male,9/1/1986,Switzerland
+127,1/1/2011,NULL,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,103,Principal,Master of Science in Physics,,Male,8/25/1973,Slovakia
+128,1/1/2011,4/30/2012,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,20,Professional,"Dr. Sc., M. Sc. ETH",,Male,3/11/1980,Germany
+129,3/1/2011,1/31/2015,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,156,Senior,MSc Wirtschaftsinformatik UZH,Senior,Male,9/30/1980,Switzerland
+130,3/1/2011,3/31/2016,Married,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,1116,BusinessUnitLeader,Diplom-Informatiker (FH),,Male,9/7/1971,Germany
+131,1/1/2011,4/30/2013,In relation,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,ITWorker,,,Male,NULL,Slovakia
+132,1/1/2011,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,568,Other,,,Male,4/5/1982,Slovakia
+133,4/1/2011,7/31/2012,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,20,Professional,Bsc in Computer Science,Professional Engineer,Male,5/3/1984,Switzerland
+134,2/1/2011,4/30/2012,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Junior,MSc. in Software Engineering,,Male,5/9/1986,Slovakia
+135,10/1/2012,12/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,77,Professional,Ing.,Test Engineer,Male,4/18/1988,Slovakia
+136,1/1/2011,NULL,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,945,Senior,,Marketing Assistant,Female,3/6/1983,Slovakia
+138,3/1/2011,1/31/2016,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,451,Professional,MSc EEIT ETH,Professional,Male,NULL,Switzerland
+139,3/1/2011,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,878,Senior,Senior Engineer,Dipl.-Inform.,Male,12/17/1968,Germany
+140,5/1/2011,7/31/2013,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,17,Professional,,,Male,2/21/1985,Switzerland
+141,4/1/2011,12/31/2011,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,20,Professional,Professional,,Male,7/10/1978,Italy
+142,4/4/2011,12/30/2013,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,17,Senior,H.B.A. in Business Information Systems,,Male,12/27/1975,Germany
+144,8/1/2011,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,1079,BusinessUnitLeader,BSc Business Information Systems FH,,Male,9/8/1980,Switzerland
+145,1/1/2010,9/30/2011,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Other,,,Male,1/1/1950,Switzerland
+146,6/1/2014,6/1/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Junior,,,Male,5/26/1988,Slovakia
+147,4/1/2011,12/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Senior,Mgr.,,Male,1/8/1983,Slovakia
+149,6/1/2011,12/31/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,174,Senior,Wirtschaftsinformatiker FH,Senior Consultant,Male,11/24/1980,Switzerland
+150,5/1/2011,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,878,Senior,Informatik Ingenieur FH,,Male,10/21/1978,Switzerland
+152,7/1/2011,12/31/2012,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Senior,Eidg. Dipl. Ing. Informatik FH,Senior Consultant,Male,3/15/1975,Italy
+153,10/1/2011,9/30/2013,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Professional,B. Sc IT in Software Systems,Professional,Male,3/29/1985,Switzerland
+154,6/1/2011,NULL,Married,ERNI Consulting AG,ERNI Management Services AG,Full Time,13,ServiceAreaManager,Senior,,Male,4/10/1981,Germany
+155,7/18/2011,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,49,BusinessUnitLeader,BSc Business Information Systems FH,,Male,5/2/1981,Switzerland
+156,7/1/2011,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,1079,BusinessUnitLeader,MAS in Business Engineering,Principal Consultant,Male,2/22/1980,Switzerland
+157,7/1/2011,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,8,Senior,Dipl. Ing. FH,Senior Consultant,Male,8/16/1976,Switzerland
+158,8/1/2011,7/31/2015,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,888,BusinessUnitLeader,Eidg. dipl. Wirtschaftsinformatiker FH,Principal Consultant,Male,4/5/1971,Switzerland
+159,5/1/2011,12/31/2014,Single,Swiss Engineering Insititute,Swiss Engineering Institute AG,Full Time,35,BusinessAreaManager,"Dipl. Wirtschaftsinformatiker, MAS FH Strategsiche",,Male,8/26/1969,Switzerland
+160,8/1/2011,1/31/2015,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,21,Senior,Senior,,Male,4/10/1970,Switzerland
+163,6/1/2011,6/30/2013,Divorced,ERNI Consulting SA,ERNI Consulting AG,Full Time,NULL,BusinessUnitLeader,,Business Unit Leader,Male,11/4/1964,Italy
+164,6/1/2014,8/31/2014,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,398,Professional,Ing.,,Male,10/8/1983,Slovakia
+165,4/1/2007,7/31/2014,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,221,Senior,Dipl. El-Ing. FH,,Male,6/20/1980,Switzerland
+166,3/1/2010,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,51,Senior,Dipl. Inf. in Informatik  FH,,Male,8/27/1976,Switzerland
+167,4/1/2010,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,833,BusinessUnitLeader,Dipl. Software Engineer NDS,FH,Male,1/19/1977,Switzerland
+168,10/1/2010,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,49,Principal,"Dipl. Wirtschaftstechniker (FH), EMBA (FH)",,Male,7/15/1975,Switzerland
+169,12/1/2010,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,167,Senior,Software Engineer FH,Senior Software Engineer,Male,7/26/1970,Switzerland
+170,3/1/2008,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,8,Principal,Dipl. El. Ing. HTL / MAS BA,Principal,Male,6/30/1975,Switzerland
+171,6/1/2008,3/31/2013,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,172,Principal,Principal Consultant,MAS Leadership & Management ; Dipl. El. Ing. FH,Male,8/12/1967,Switzerland
+172,4/19/2010,2/28/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,342,BusinessAreaManager,"Dr. sc. techn., dipl. Informatik-Ing. ETH",,Male,2/7/1973,Switzerland
+173,8/1/2010,12/31/2011,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Professional,dipl. Inf. Ing. FH,,Male,2/13/1982,Switzerland
+174,9/1/2010,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,1079,SeniorPrincipal,Dipl. Wirtschaftsinformatiker FH,Senior Principal,Male,9/3/1974,Switzerland
+175,11/1/2010,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,673,Principal,dipl. Ing. FH,,Female,11/27/1981,Switzerland
+177,10/1/2010,10/31/2011,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,81,Professional,M.Sc. Technology and Automation,Professional,Male,5/19/1982,Slovakia
+185,8/1/2011,11/6/2015,Single,ERNI Consulting AG,"ERNI Consulting España, S. L. U.",Full Time,770,Professional,Bachelor of Science in Computer Science,NULL,Male,2/20/1987,Germany
+186,11/19/2014,NULL,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,994,Professional,,NULL,Male,6/20/1984,Spain
+191,11/1/2011,NULL,Married,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,921,Principal,Dipl.-Inform.,Prinzipal,Male,8/24/1972,Germany
+192,8/1/2011,NULL,In relation,ERNI Consulting AG,ERNI Management Services AG,Full Time,13,ServiceAreaManager,Executive MBA FH,Consultant,Male,11/15/1978,Switzerland
+194,10/1/2011,8/31/2013,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Professional,B. Sc IT in Software Systems,Professional,Male,6/29/1987,Switzerland
+196,8/15/2011,12/31/2011,Single,ERNI Management Services AG,ERNI Management Services AG,Trainee,44,Other,NULL,NULL,Female,7/28/1993,Turkey
+197,11/1/2011,NULL,Married,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,1099,BusinessUnitLeader,Dipl. Inf.,Business Unit Leader,Male,9/17/1979,Germany
+198,9/1/2011,12/31/2014,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Principal,NULL,"Executive MBA, Betr. oek., Wirtschaftsinformatiker",Male,3/17/1972,Switzerland
+199,8/15/2011,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,221,Senior,BSc in Angewandter Psychologie,Professional Consultant,Male,1/28/1986,Switzerland
+200,11/1/2011,NULL,In relation,ERNI Consulting AG,ERNI Consulting AG,Full Time,51,Senior,Bachelor of Science FHNW,NULL,Male,6/20/1986,Switzerland
+201,7/1/2012,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,221,Professional,BSc in Wirtschaftsingenieurwesen,Professional Consultant,Female,5/3/1988,Switzerland
+202,11/1/2011,3/31/2013,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,76,Senior,"dipl. Ing FH, Software Engineer MAS",Professional,Male,2/28/1974,Switzerland
+203,10/1/2011,3/31/2014,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,167,Professional,Msc ETH BME,Professional,Female,11/19/1987,Switzerland
+204,12/1/2011,4/30/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,192,Professional,Dipl. Inf. Ing. FH,Professional,Male,5/15/1983,Switzerland
+205,11/1/2011,9/30/2012,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,92,Senior,Dipl. Informatik Ingenieur FH,NULL,Male,3/28/1981,Switzerland
+206,1/1/2012,NULL,Single,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,1116,Senior,Diplom-Informatiker,Senior,Male,2/12/1982,Germany
+207,1/1/2009,9/30/2012,Married,Swiss Engineering Insititute,Swiss Engineering Institute AG,Full Time,NULL,Other,NULL,MD,Male,4/8/1951,Switzerland
+209,2/1/2012,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,167,Senior,Informatik Ingenieur FH,Senior Consultant,Male,12/18/1984,Switzerland
+211,8/15/2011,8/14/2015,Single,ERNI Management Services AG,ERNI Management Services AG,Trainee,15,Other,NULL,IT Lernender,Male,6/21/1995,Switzerland
+212,10/1/2011,10/31/2014,Single,ERNI Management Services AG,ERNI Management Services AG,Full Time,568,Other,NULL,IT Supporter,Male,10/10/1988,Switzerland
+213,10/1/2011,4/30/2013,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Other,Ing.,Financial Project Administrator,Female,2/26/1985,Slovakia
+215,3/1/2011,2/29/2012,Single,ERNI Management Services AG,ERNI Management Services AG,Full Time,34,Other,NULL,Hot Spot,Female,10/20/1982,Switzerland
+216,6/27/2011,8/31/2013,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Student,NULL,Other,NULL,Praktikantin,Female,2/6/1973,Switzerland
+217,10/17/2011,6/30/2012,In relation,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Other,NULL,,Male,11/8/1983,Germany
+219,11/1/2011,12/7/2011,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,92,Senior,Dipl. Ingenieur (TH),NULL,Male,3/29/1979,France
+220,2/1/2012,8/31/2014,Married,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,NULL,BusinessUnitLeader,Master of Science (Medieninformatik),Business Unit Leader,Male,7/23/1978,Germany
+221,2/1/2012,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,49,BusinessUnitLeader,BSc in Business Information Systems,NULL,Male,2/21/1980,Switzerland
+222,1/1/2010,1/2/2010,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Contractor,84,Senior,MSc.,NULL,Male,1/18/1980,Slovakia
+223,1/1/2012,8/31/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,174,Professional,Degree in Business Administration,Professional Consultant,Female,3/18/1980,Germany
+225,2/1/2012,9/30/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Professional,BSc in Engineering & Management,Professional,Male,2/9/1985,Switzerland
+227,3/1/2012,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,878,Senior,Dipl. Ing. FH,Senior Consultant,Male,10/6/1981,Switzerland
+228,2/1/2012,5/31/2015,Married,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,130,Professional,MSc Advanced Computing,Professional,Male,1/29/1980,Germany
+229,2/1/2012,8/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,77,Professional,Mgr.,NULL,Male,1/17/1986,Slovakia
+230,2/1/2012,7/31/2012,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,43,Other,Eidg. Dipl. El Ing.,NULL,Male,11/5/1974,Switzerland
+231,5/1/2012,3/31/2013,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,170,Senior,Dipl. Ing. Maschinenbau FH,Senior,Male,3/9/1977,Switzerland
+232,3/1/2012,3/31/2014,Married,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,130,Senior,Diplom-Informatiker (FH),Senior,Male,5/20/1969,Germany
+233,2/15/2012,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,49,Principal,Dipl. Wirtschaftsingenieur FH,Principal Consultant,Male,9/9/1972,Germany
+235,4/1/2012,NULL,Married,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,921,BusinessUnitLeader,Dipl. Informatiker (FH),NULL,Male,8/7/1972,Germany
+237,4/1/2012,1/31/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,193,Professional,Dipl. Inf. Ing. FH,Professional,Female,12/31/1984,Switzerland
+238,3/7/2012,9/30/2013,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,193,Professional,Bachelor of Sience ZFH in Business Informatics,Professional,Female,11/25/1984,Switzerland
+239,3/1/2012,6/30/2013,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,170,Professional,M.Sc.,Professional,Male,9/15/1983,Spain
+240,5/1/2012,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,451,Senior,Dr. sc. ETH Informatik,Senior Engineer and Consultant,Male,3/8/1982,Switzerland
+241,4/1/2012,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,156,Professional,Informatiker B.Sc.,NULL,Male,8/9/1986,Switzerland
+245,4/1/2012,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,919,Senior,Dr. es sc.,Software Engineer,Male,9/18/1980,Switzerland
+250,3/1/2012,12/31/2014,Single,Swiss Engineering Insititute,Swiss Engineering Institute AG,Full Time,NULL,Other,NULL,NULL,Female,2/5/1966,Germany
+251,4/1/2012,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,444,Senior,Dipl. El. Ing. FH,Senior Consultant,Male,4/28/1980,Switzerland
+252,11/1/2013,4/30/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Student,398,Junior,Bc,NULL,Male,2/19/1988,Slovakia
+253,4/1/2012,5/12/2012,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,22,Senior,NULL,Senior,Male,1/20/1970,Germany
+254,11/28/2011,3/13/2015,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,828,Professional,M.Sc. Information Technology,Professional,Male,4/28/1986,Spain
+255,11/28/2011,3/22/2015,In relation,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,828,BusinessUnitLeader,NULL,Business Unit Leader,Male,4/21/1981,Spain
+256,1/16/2012,NULL,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,1099,BusinessUnitLeader,NULL,Business Unit Leader,Male,9/24/1981,Spain
+257,3/19/2012,6/17/2014,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,NULL,BusinessUnitLeader,MSc. Telecommunications Engineering,Senior,Male,1/29/1980,Spain
+259,3/1/2012,9/9/2013,Married,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,104,Senior,NULL,Senior,Male,3/15/1979,Germany
+260,3/1/2012,NULL,Married,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,921,Other,NULL,Assistentin,Female,11/24/1973,Germany
+261,7/1/2012,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,633,Senior,Executive Master in Business Administration,Senior Consultant,Male,9/16/1976,Switzerland
+262,4/16/2012,11/30/2012,Single,ERNI Management Services AG,ERNI Management Services AG,Full Time,NULL,Other,NULL,NULL,Female,9/23/1984,Switzerland
+263,5/1/2012,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,156,Senior,BSc ZFH Wirtschaftsinformatik,,Male,7/9/1985,Switzerland
+264,6/1/2012,3/31/2014,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,20,Senior,Dipl. Ing. FH,Professional,Male,12/23/1982,Switzerland
+266,6/1/2012,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,1018,Senior,Master of Science in Computer Science,Senior Software Engineer,Male,1/30/1984,Slovakia
+268,7/1/2012,7/31/2013,Married,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,220,Senior,Dipl.-Ing.,Senior,Male,5/18/1967,Germany
+269,7/1/2012,7/2/2012,Single,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,130,Senior,NULL,Senior,Male,5/11/1978,Germany
+270,7/1/2012,12/31/2014,Single,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,78,Professional,NULL,Professional,Male,6/1/1983,Germany
+271,3/1/2012,8/16/2015,Married,ERNI Management Services AG,ERNI Management Services AG,Full Time,526,Professional,NULL,NULL,Female,1/27/1988,Switzerland
+272,7/1/2012,8/17/2012,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,76,Professional,M.Sc. in Information Technology,Professional,Male,9/7/1982,Finland
+273,6/1/2012,NULL,Single,ERNI Consulting SA,ERNI Consulting AG,Full Time,51,Professional,Wirtschaftsinformatiker FH,Professional,Male,4/27/1978,Switzerland
+275,3/1/2013,NULL,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,197,Senior,MSc,Senior,Male,8/28/1980,Spain
+276,6/1/2012,7/31/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,154,Professional,NULL,Professional,Female,10/12/1976,Spain
+277,4/26/2012,11/6/2015,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,104,ServiceUnitLeader,M.Sc. Information Technology,Service Unit Leader,Male,3/5/1978,Argentina
+278,6/1/2012,12/31/2014,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Professional,Ing.,NULL,Male,8/4/1988,Slovakia
+279,5/1/2012,12/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Junior,NULL,NULL,Male,8/5/1974,Slovakia
+280,7/1/2012,9/3/2015,Married,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,828,Senior,B. Sc. Systems engineering,Senior,Male,11/30/1981,Spain
+281,9/1/2012,9/30/2012,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,100,Professional,Bachelor of Science – B.Sc. (Hons),Professional Consultant,Male,11/23/1986,Slovakia
+282,7/1/2012,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,822,Other,B.S.,Other,Male,3/7/1985,Philippines
+284,7/1/2012,3/31/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,174,Senior,NULL,Senior,Male,4/15/1978,Switzerland
+285,7/9/2012,NULL,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,994,Professional,Software Engineer,Professional,Male,8/23/1986,Italy
+290,7/1/2012,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,922,Professional,B.S.,Software Engineer,Male,10/15/1987,Philippines
+291,7/1/2012,5/31/2014,Married,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,122,Professional,,.Net Software Engineer,Male,7/14/1980,Philippines
+292,7/1/2012,NULL,In relation,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,922,Professional,B.S.,.NET Developer,Male,2/7/1983,Philippines
+293,7/1/2012,3/6/2015,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,698,Professional,B.S.,Software Tester,Male,8/12/1991,Philippines
+295,7/18/2012,4/30/2013,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,NULL,Assistant,B.S.,NULL,Female,6/8/1987,Philippines
+297,7/1/2012,10/23/2015,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,922,Professional,B.S. Computer Engineer,.NET Software Engineer,Male,4/16/1986,Philippines
+298,7/1/2012,9/30/2012,Married,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,NULL,Other,NULL,NULL,Female,4/3/1955,Spain
+301,8/1/2012,7/31/2014,Single,ERNI Management Services AG,ERNI Management Services AG,Trainee,15,Other,NULL,Lernender,Male,6/18/1993,Switzerland
+302,9/1/2012,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,221,Senior,Dipl.Inf.Ing.FH,Senior,Male,11/22/1980,Switzerland
+304,8/1/2012,12/31/2014,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,698,Professional,B.S.,Software Tester,Male,10/29/1991,Philippines
+305,10/1/2012,5/31/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,221,Professional,NULL,Professional,Male,NULL,Switzerland
+306,1/1/2015,1/31/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Contractor,312,Principal,Ing.,Principle,Male,1/30/1981,Slovakia
+307,10/1/2012,12/11/2012,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,20,Junior,B.Sc. Business Information Technology,NULL,Male,2/26/1989,Switzerland
+312,11/1/2012,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,103,ServiceUnitLeader,Ing.,Java Developer,Male,3/2/1982,Slovakia
+314,10/1/2012,8/31/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,878,Professional,BSc in Informatik,BEng in Software Engineering,Male,3/2/1984,Switzerland
+315,11/1/2012,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,51,Professional,Master of Science,NULL,Male,5/21/1985,Switzerland
+316,9/10/2012,10/31/2013,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,312,Professional,dipl. Ing.,Professional Software Engineer,Male,3/26/1987,Slovakia
+331,10/1/2012,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,43,ManagingDirector,"Dipl. Ing. Inf. ETH, MBA McGill",MD ERNI Switzerland,Male,3/28/1977,Switzerland
+332,10/1/2012,12/31/2014,In relation,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,147,Professional,Ing,Junior,Male,3/4/1988,Slovakia
+337,1/1/2013,8/28/2013,Single,ERNI Consulting AG,People Business AG,Contractor,NULL,Other,NULL,NULL,Male,5/4/1971,Switzerland
+338,4/1/2013,4/30/2015,Divorced,ERNI Consulting AG,People Business AG,Contractor,549,Other,NULL,NULL,Male,1/31/1966,Switzerland
+339,10/15/2012,6/30/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,170,Professional,MS Computer Science Engineer,Professional,Female,11/13/1984,Spain
+341,11/1/2012,4/30/2016,Single,ERNI Management Services AG,ERNI Management Services AG,Full Time,893,Professional,dipl. Betribswirtschafterin HF,Professional Accountant,Female,NULL,Switzerland
+342,11/1/2012,5/31/2015,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,331,ManagingDirector,Lic. Phil. (Master) of Sociology / Executive MBA,,Male,4/23/1969,Switzerland
+346,7/22/2012,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Student,54,Junior,Bc,NULL,Male,12/20/1990,Slovakia
+348,4/1/2013,8/31/2013,Divorced,ERNI Consulting AG,ERNI Consulting AG,Contractor,174,Other,NULL,NULL,Male,4/24/1970,Switzerland
+349,1/1/2013,2/28/2015,Married,ERNI Management Services AG,ERNI Management Services AG,Full Time,NULL,Other,NULL,H,Male,11/7/1973,Switzerland
+350,7/1/2012,12/31/2014,Single,Swiss Engineering Insititute,Swiss Engineering Institute AG,Full Time,35,Other,NULL,NULL,Male,8/5/1965,Switzerland
+364,10/1/2012,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,8,Principal,Bsc. Physics with Management Studies,NULL,Male,1/19/1977,United Kingdom
+381,11/1/2012,12/31/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,893,Professional,NULL,Main Account / Payroll,Female,10/25/1969,Slovakia
+382,11/19/2012,3/19/2013,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Student,122,Other,NULL,NULL,Female,NULL,Philippines
+383,2/1/2013,5/4/2015,Married,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,414,Professional,NULL,Professional,Male,NULL,Philippines
+388,12/1/2012,12/31/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,451,Professional,NULL,Professional,Male,5/17/1984,Spain
+389,12/1/2012,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,604,Other,NULL,Internal controller,Male,10/8/1979,Slovakia
+390,2/1/2013,1/31/2016,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,878,Senior,Dipl. Inf. Ing. FH,Senior,Male,2/5/1981,Switzerland
+392,1/7/2013,12/31/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,103,Other,Ing./Msc.,,Female,5/11/1986,Slovakia
+398,1/1/2013,NULL,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,103,ServiceUnitLeader,MSc.,NULL,Male,1/9/1980,Slovakia
+401,2/1/2013,4/30/2014,Single,ERNI Management Services AG,ERNI Management Services AG,Full Time,349,Other,NULL,NULL,Female,5/22/1987,Switzerland
+408,2/1/2013,5/31/2014,Divorced,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Other,Master,Test Manager,Male,2/14/1966,Algeria
+410,2/11/2013,11/30/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,175,Professional,NULL,Professional,Male,4/28/1987,Germany
+413,12/3/2012,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,698,Professional,NULL,NULL,Male,10/24/1990,Philippines
+423,3/1/2013,12/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Other,NULL,NULL,Male,4/15/1984,Slovakia
+425,4/1/2013,6/30/2014,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Other,Ing.,NULL,Male,4/5/1981,Slovakia
+427,6/1/2013,6/30/2015,Married,ERNI Consulting SA,ERNI Consulting AG,Full Time,681,Senior,,NULL,Male,10/26/1976,Switzerland
+428,3/27/2013,1/31/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,221,Professional,BSc. in Wirtschaftsinformatik,Professional Consultant,Male,1/23/1986,Switzerland
+429,4/15/2013,4/30/2016,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,633,Senior,Ingenieur FH,NULL,Male,4/24/1979,Switzerland
+430,4/1/2013,7/7/2013,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,13,Principal,"MSC ETH, EMBA",NULL,Male,NULL,Switzerland
+431,5/1/2013,NULL,Single,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,1116,Professional,Master of Science in Business Informatics,NULL,Male,12/19/1977,Germany
+433,7/17/2014,10/31/2014,Divorced,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,103,Other,Mag.,Büromanager,Female,6/26/1977,Slovakia
+438,5/1/2013,8/31/2015,Married,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,921,Principal,Dipl. Betriebswirt (FH),NULL,Male,9/29/1970,Germany
+439,6/1/2013,NULL,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,69,Senior,Mgr,NULL,Male,5/6/1983,Slovakia
+443,5/1/2013,3/31/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Professional,NULL,Master of Arts HSG,Male,3/9/1987,Switzerland
+444,5/1/2013,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,49,BusinessUnitLeader,M.A. MAS,NULL,Male,3/2/1986,Netherlands
+450,4/22/2013,4/27/2015,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,10,Other,NULL,Finance and Operations,Male,2/12/1979,Philippines
+451,5/1/2013,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,673,BusinessUnitLeader,"MBA, BSc Multimedia Computing",Professional Consultant,Male,11/11/1978,Switzerland
+453,6/1/2013,9/30/2014,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,NULL,Principal,NULL,NULL,Male,9/18/1970,Switzerland
+455,5/1/2013,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,8,Professional,Master of Science ETH in Computer Science,Requirements Engineer,Male,2/26/1985,Switzerland
+458,6/1/2013,NULL,Single,ERNI Consulting AG,ERNI Management Services AG,Full Time,43,Other,NULL,Business Office Leader,Male,1/17/1982,Switzerland
+459,8/1/2013,9/30/2015,Married,ERNI Consulting SA,ERNI Consulting AG,Full Time,681,Senior,ING. INFO. DIPL. EPFL,NULL,Male,NULL,Switzerland
+460,8/1/2013,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,221,Professional,NULL,NULL,Male,11/20/1985,Switzerland
+461,6/1/2013,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,694,Senior,Dipl. Ing. FH Informatik,NULL,Male,5/19/1981,Switzerland
+462,5/15/2013,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Student,155,Professional,BSc Wirtschaftsinformatik FH,Professional Consultant,Female,12/20/1989,Switzerland
+469,6/1/2013,5/31/2015,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Principal,Ing.,.NET Principal,Male,9/21/1975,Slovakia
+472,7/1/2013,12/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,77,Professional,NULL,NULL,Male,5/12/1982,Slovakia
+474,8/1/2013,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,155,Senior,"Dipl. Wirtschaftsinformatiker FH, MBA (CCI)",NULL,Male,8/3/1981,Germany
+478,6/1/2013,8/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,103,Other,NULL,NULL,Male,6/30/1990,Switzerland
+480,7/1/2013,2/28/2015,Married,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,78,BusinessAreaManager,NULL,NULL,Male,12/17/1967,Germany
+483,6/1/2013,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,414,Professional,NULL,Web Developer,Female,11/26/1990,Philippines
+484,6/1/2013,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,893,Other,Mgr.,NULL,Female,12/2/1985,Slovakia
+485,6/1/2013,7/31/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,604,Other,Mgr,NULL,Male,6/13/1988,Slovakia
+491,7/1/2013,7/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,312,Junior,Msc,NULL,Male,2/7/1990,Slovakia
+494,7/1/2013,NULL,Single,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,235,Professional,NULL,NULL,Female,2/8/1986,Germany
+497,7/1/2013,12/31/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,158,Professional,MSc ETH CS,NULL,Male,8/11/1985,Liechtenstein
+502,7/1/2013,NULL,Married,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,994,Senior,Telecomunications Technical Engineer,NULL,Male,1/16/1976,Spain
+503,10/1/2013,6/30/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,251,Professional,NULL,NULL,Male,NULL,Switzerland
+504,10/1/2013,9/30/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,175,Professional,Bacherlor of Science IT/ MBA,Requirements Engineer,Male,7/3/1984,Switzerland
+505,7/1/2013,2/16/2015,In relation,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,10,Junior,Bachelor's Degree,Software Engineer,Male,10/10/1986,Philippines
+506,7/1/2013,3/6/2015,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,414,Professional,Bachelor of Science in Information Technology,Web Developer,Male,8/9/1988,Philippines
+509,7/8/2013,10/31/2014,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,698,Professional,Jr,Software Test Engineer,Female,8/25/1981,Philippines
+510,8/1/2013,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,922,Professional,NULL,NULL,Female,8/26/1990,Philippines
+511,8/1/2013,NULL,Married,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,414,Senior,B.S. ComSci - Programming / I.T. Multimedia,Senior Graphic Designer,Male,6/7/1983,Philippines
+517,8/1/2013,NULL,Married,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,922,Senior,B.S. Computer Science,.NET Software Engineer,Female,8/23/1982,Philippines
+518,8/1/2013,10/31/2013,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,127,Other,Ing.,NULL,Male,NULL,Slovakia
+519,8/15/2013,8/31/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,604,Other,NULL,NULL,Female,1/2/1988,Slovakia
+521,5/15/2013,NULL,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,197,Professional,Master,Professional Developer,Male,7/16/1983,Spain
+523,1/1/2014,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,633,Senior,B.Sc. in Business Administration,,Male,12/14/1984,Switzerland
+524,9/9/2013,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,694,Professional,Dipl. Ing. ETH,NULL,Male,6/18/1986,Switzerland
+530,9/1/2013,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,8,Senior,B.Sc. in Informatik,NULL,Male,NULL,Switzerland
+532,10/1/2013,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,451,Professional,Master of Arts HSG,Profiessional Consultant,Male,10/4/1985,Switzerland
+534,9/1/2013,12/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Junior,Bc,NULL,Male,4/14/1990,Slovakia
+535,8/15/2013,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,57,Professional,Mgr.,NULL,Male,7/8/1984,Slovakia
+536,8/15/2013,12/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Professional,Bc.,NULL,Male,3/2/1987,Hungary
+537,12/1/2007,12/31/2014,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,147,Senior,Ing.,NULL,Male,10/25/1984,Slovakia
+539,9/1/2013,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,57,Professional,NULL,NULL,Male,12/28/1987,Slovakia
+541,9/1/2013,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,945,Other,NULL,NULL,Female,10/30/1975,Slovakia
+543,9/1/2013,3/31/2016,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,127,Professional,Ing. / .Net Developer,NULL,Male,5/23/1989,Slovakia
+545,9/9/2013,8/31/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Student,NULL,Other,Bc.,NULL,Female,5/5/1990,Slovakia
+546,10/1/2013,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,331,Other,dipl. Betriebswirtschafterin HF,NULL,Female,NULL,Switzerland
+550,10/15/2013,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,398,Senior,NULL,NULL,Female,NULL,Slovakia
+551,10/1/2013,5/31/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,54,Professional,NULL,NULL,Male,10/18/1990,Slovakia
+552,10/1/2013,12/1/2014,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,81,Professional,Ing,NULL,Male,1/16/1984,Slovakia
+553,10/1/2013,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,893,Other,Ing,NULL,Female,3/5/1987,Slovakia
+559,1/1/2015,NULL,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,828,Senior,NULL,NULL,Male,10/14/1985,Spain
+561,11/1/2013,12/31/2014,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Professional,NULL,NULL,Male,9/19/1977,Slovakia
+563,10/28/2013,5/17/2015,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,828,Professional,M.Sc. Information Technology,Professional,Male,1/22/1982,Spain
+565,11/1/2013,NULL,Single,ERNI Consulting AG,ERNI Management Services AG,Full Time,568,Other,NULL,System Engineer,Male,2/17/1980,Switzerland
+571,11/18/2013,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,698,Professional,NULL,Software Test Engineer,Male,2/3/1992,Philippines
+573,12/1/2013,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,398,Senior,Mgr./Senior Test Engineer,NULL,Male,7/8/1985,Slovakia
+574,12/1/2013,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,54,Professional,Bc.,NULL,Male,2/9/1990,Slovakia
+575,12/1/2013,6/30/2016,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,54,Professional,Ing.,NULL,Male,11/26/1986,Slovakia
+576,12/1/2013,10/31/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,54,Other,NULL,NULL,Male,9/19/1989,Slovakia
+579,1/2/2014,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,922,Professional,NULL,NULL,Male,7/1/1991,Philippines
+580,12/7/2013,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,698,Professional,BS ECE,Software Test Engineer,Male,1/22/1991,Philippines
+581,1/2/2014,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,698,Professional,NULL,Junior Tester,Male,6/30/1992,Philippines
+582,2/1/2014,6/30/2016,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,398,Professional,Professional Test Engineer,NULL,Male,6/3/1986,Slovakia
+584,2/1/2014,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,633,Senior,Master of Arts,Senior Consultant,Male,8/15/1975,United Kingdom
+586,1/6/2014,10/31/2015,In relation,ERNI Consulting AG,ERNI Management Services AG,Full Time,13,Principal,Ingenieur FH in Informatik,NULL,Male,2/16/1981,Switzerland
+588,2/3/2014,NULL,Married,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,601,Professional,Ingeniero técnico en Informática de Gestión,NULL,Male,5/3/1984,Spain
+592,2/1/2014,7/31/2016,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,69,Professional,Ing.,NULL,Male,7/10/1989,Slovakia
+594,1/20/2014,8/31/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,221,Professional,MSc. in Business Andministration/Junior Consultant,NULL,Female,11/3/1985,Switzerland
+601,2/20/2014,NULL,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,1099,ServiceUnitLeader,Telecommunications Engineer High Degree,Senior developer,Male,10/12/1980,Spain
+602,3/3/2014,3/31/2016,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,601,Professional,Technical Engineering in Computer System,NULL,Male,10/13/1989,Spain
+603,5/1/2014,6/30/2015,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,8,BusinessAreaManager,Dipl. Inf. Univ./EMBA HSG,BAM RDS,Male,3/9/1971,Switzerland
+605,3/1/2014,6/30/2016,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,633,Professional,BSc computer science,Professional Consultant,Male,NULL,Switzerland
+606,3/1/2014,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,155,Professional,Master of Science in Business Administration,NULL,Female,6/14/1990,Switzerland
+607,6/1/2014,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,221,Senior,NULL,NULL,Male,11/10/1974,Switzerland
+608,4/1/2014,12/31/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,193,Junior,BSc Business Information Technology,NULL,Male,NULL,Switzerland
+613,5/1/2014,12/31/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,694,Professional,NULL,Software Entwickler,Male,4/6/1982,Hungary
+617,5/1/2014,12/31/2015,Single,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,235,Professional,Diplom-Informatiker (FH),NULL,Male,4/19/1980,Germany
+623,4/1/2014,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,51,Professional,MSC BIOMED. ENG. ETH,Professional Consultant,Male,8/18/1988,Switzerland
+626,3/26/2014,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,698,Professional,NULL,Junior Test Engineer,Female,10/2/1987,Philippines
+627,3/26/2014,3/28/2016,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,698,Professional,B.S.,Professional Test Engineer,Male,3/20/1989,Philippines
+629,3/26/2014,2/10/2015,Married,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,698,Junior,B.S.,Jr. Test Engineer,Male,6/30/1984,Philippines
+630,5/1/2014,NULL,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,945,Professional,Mgr.art,NULL,Female,12/10/1986,Slovakia
+631,4/1/2014,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,921,Other,NULL,NULL,Male,NULL,Germany
+632,4/1/2014,NULL,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,69,Senior,Ing.,NULL,Male,2/22/1983,Slovakia
+633,6/9/2014,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,1079,BusinessUnitLeader,NULL,NULL,Male,4/11/1982,Switzerland
+639,5/1/2014,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,155,Professional,Master of Science in Business and Economics,NULL,Male,1/12/1985,Switzerland
+641,5/1/2014,4/30/2015,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,175,Junior,Master of Science in Business Information Techn.,NULL,Female,7/24/1987,Ukraine
+643,6/1/2014,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,57,Professional,Bc.,NULL,Male,1/9/1990,Slovakia
+647,7/1/2014,2/29/2016,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,398,Junior,Ing.,NULL,Female,4/15/1990,Slovakia
+648,6/1/2014,1/31/2016,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,945,Other,M.A.,NULL,Male,10/23/1975,United States
+651,5/12/2014,12/31/2014,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,10,Senior,NULL,NULL,Male,7/16/1972,Switzerland
+652,7/1/2014,7/31/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,312,Junior,Ing.,NULL,Male,6/8/1991,Slovakia
+654,6/1/2014,12/31/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,144,Senior,Diplom-Informatiker,NULL,Male,11/25/1976,Germany
+660,6/1/2014,NULL,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,312,Professional,Ing.,NULL,Male,4/1/1984,Slovakia
+663,6/1/2014,12/31/2014,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Professional,Ing.,Test engineer,Male,NULL,Slovakia
+664,7/1/2014,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,155,Senior,Engineer,NULL,Male,NULL,Portugal
+668,8/1/2014,12/31/2014,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,21,Junior,BSc. Business Information Technology,Consultant,Male,7/23/1991,Switzerland
+671,5/5/2014,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,922,Junior,NULL,Mobile Applications Developer,Male,6/11/1986,Philippines
+674,7/7/2014,NULL,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,922,Senior,B.S.ECE,Mobile Applications Developer,Male,8/22/2014,Philippines
+676,7/1/2014,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,54,Professional,Ing.,NULL,Male,4/23/1990,Slovakia
+677,7/1/2014,12/31/2014,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,NULL,Junior,NULL,Junior Tester,Male,11/22/1984,Slovakia
+679,1/1/2015,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,54,Senior,Ing.,NULL,Male,7/7/1972,Slovakia
+681,9/1/2014,9/30/2016,Married,ERNI Consulting SA,ERNI Consulting AG,Full Time,919,BusinessUnitLeader,NULL,Business Unit Leader,Male,10/12/1975,France
+688,8/11/2014,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,8,Senior,Diplom Wirtschaftsinformatikerin FH,Senior Consultant,Female,11/1/1973,Switzerland
+689,9/1/2014,5/31/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,235,Professional,M.Sc. Electrical & Computer Engineering,Professional Consultant,Male,4/23/1985,Greece
+691,9/1/2014,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,398,Professional,NULL,Professional Test Engineer,Male,11/27/1985,Slovakia
+693,7/14/2014,9/15/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,296,Other,Mgr.,NULL,Male,NULL,Slovakia
+694,10/1/2014,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,673,BusinessUnitLeader,Dipl. Ing. FH IT,Business Unit Leader,Male,9/11/1978,Switzerland
+696,9/1/2014,2/28/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,156,Professional,NULL,BSc. in Business Administration,Female,NULL,Poland
+703,7/17/2013,1/31/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Student,621,Other,NULL,NULL,Female,1/23/1992,Slovakia
+706,9/1/2014,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,156,Professional,NULL,NULL,Male,1/24/1984,Germany
+708,10/1/2014,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,144,Senior,Bachelor of Science,Professional Consultant,Male,4/22/1985,Switzerland
+714,11/1/2014,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Part Time,144,Professional,NULL,NULL,Male,8/17/1983,Switzerland
+716,8/18/2014,5/31/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Student,103,Other,NULL,NULL,Female,7/29/1992,Slovakia
+717,9/15/2014,5/17/2015,Married,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,256,Senior,Ingeniero técnico en informática de sistemas,NULL,Male,2/1/1976,Spain
+721,9/1/2014,NULL,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,197,Professional,MA (Hons),Technical Writer and Terminologist,Female,8/24/1984,United Kingdom
+726,1/1/2015,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,167,Professional,BSc Elektrotechnik FH,Professional Software Engineer,Male,3/3/1988,Switzerland
+728,10/1/2014,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,398,Professional,Ing.,NULL,Male,8/24/1980,Slovakia
+732,10/1/2014,7/31/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,57,Professional,Ing.,Professional Software Engineer,Male,6/23/1985,Slovakia
+735,1/1/2015,1/31/2016,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,878,Senior,Dipl. Informatiker Uni. / Dipl. Maschineningenieur,Senior Engineer,Male,NULL,Germany
+736,11/1/2014,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,8,BusinessUnitLeader,eidg. dipl. Informatik-Ing. FH,NULL,Male,1/3/1981,Switzerland
+737,1/1/2015,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,878,Professional,BSc. Wirtschaftsinformatik FH,Professional,Male,10/27/1986,Switzerland
+739,11/1/2014,4/30/2016,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,167,Professional,BsC in Informatik,Professional Consultant,Male,1/15/1988,Germany
+753,11/4/2014,5/13/2016,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,994,Professional,Computer Scientist,Software Developer,Male,6/23/1984,Spain
+754,11/12/2014,6/17/2016,Married,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,256,Senior,NULL,NULL,Male,8/2/1974,Spain
+755,12/1/2014,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,69,Professional,Master of Economic Informatics,NULL,Male,6/17/1983,Slovakia
+761,1/1/2015,NULL,Single,ERNI Consulting SA,ERNI Consulting AG,Full Time,681,Senior,NULL,NULL,Male,12/21/1980,Switzerland
+762,1/1/2015,12/31/2015,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,694,Professional,NULL,NULL,Male,NULL,Switzerland
+765,1/1/2015,3/31/2015,Single,ERNI Deutschland GmbH,ERNI (Deutschland) GmbH,Full Time,78,BusinessUnitLeader,NULL,NULL,Male,NULL,Germany
+771,2/1/2015,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,221,Senior,"Dipl.El.Ing.Fh,Mas IT",NULL,Male,NULL,Switzerland
+772,12/1/2014,5/29/2015,Single,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,192,Professional,NULL,NULL,Male,NULL,Philippines
+777,3/1/2015,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,167,Senior,Dipl. Informatik Ing. FH,NULL,Male,5/22/1978,Germany
+784,1/1/2015,NULL,Married,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,312,Professional,Mgr.,,Male,5/10/1987,Slovakia
+787,1/1/2015,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,694,Senior,,NULL,Male,NULL,Switzerland
+789,1/1/2015,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,694,Senior,DIPLOM INFORMATIKER (FH),SENIOR CONSULTANT,Male,2/1/1979,Spain
+790,1/1/2015,5/31/2016,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,156,Professional,BSc. in Informatik; Professional Consultant,NULL,Male,9/10/1990,Switzerland
+791,1/26/2015,NULL,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,770,Junior,Telecommunications Engineering,Professional IT Consultant,Male,NULL,Spain
+793,1/19/2015,NULL,Married,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,256,Senior,Master Degree in Automation Engineering,Senior Consultant,Male,2/20/1976,Spain
+794,12/18/2014,9/30/2015,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,828,Professional,NULL,NULL,Male,5/1/1987,Spain
+797,1/6/2015,NULL,Married,ERNI Development Center Romania S.R.L.,ERNI Development Center Romania S.R.L.,Full Time,154,Senior,NULL,.NET Developer,Male,2/18/1979,Romania
+803,2/1/2015,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,8,Professional,BSc Informatik FH,Professional Software Engineer,Male,NULL,Switzerland
+805,3/1/2015,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,51,Junior,NULL,NULL,Female,7/10/1992,Germany
+808,2/1/2015,7/31/2015,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,417,Other,BSc in Computer Science,Professional Software Engineer,Male,3/11/1977,Switzerland
+813,3/1/2015,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,144,Senior,NULL,NULL,Male,7/31/1984,Poland
+818,2/23/2015,NULL,In relation,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,828,Senior,Computer Engineer,Senior IT Consultant,Male,11/5/1976,Spain
+820,3/2/2015,NULL,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,770,Professional,Master of Engineering Telecommunication,Software Test Engineer / Test Analyst,Male,2/5/1986,Spain
+823,3/1/2015,7/30/2015,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,103,ServiceUnitLeader,Ing.,Test manager,Male,8/20/1985,Slovakia
+824,3/1/2015,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,144,Professional,"BSc Computer Science, MAS Software Engineering",Professional Software Engineer,Male,6/18/1984,Switzerland
+843,3/16/2015,NULL,Single,ERNI Development Center Romania S.R.L.,ERNI Development Center Romania S.R.L.,Full Time,877,Professional,Engineer,NULL,Male,1/23/1988,Romania
+846,3/30/2015,NULL,Married,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,256,Senior,NULL,NULL,Male,4/18/1977,Italy
+848,4/1/2015,NULL,Married,ERNI Consulting AG,ERNI Consulting AG,Full Time,673,Principal,Dipl. Informatikingenieur ETHZ,Principal Consultant,Male,3/30/1977,Switzerland
+859,4/1/2015,NULL,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,770,Senior,MSc IT PM,Senior IT Consultant,Male,3/11/1986,Russian Federation
+875,5/4/2015,NULL,Married,ERNI Development Center Philippines Inc.,ERNI Development Center Philippines Inc.,Full Time,192,Professional,,Project Coordinator,Female,1/20/1986,Philippines
+886,6/1/2015,10/2/2015,Single,"ERNI Consulting España, S. L. U.","ERNI Consulting España, S. L. U.",Full Time,256,Senior,NULL,NULL,Male,8/24/1978,Spain
+890,8/1/2015,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,167,Professional,NULL,NULL,Male,11/3/1981,Switzerland
+925,9/15/2015,NULL,Single,ERNI Slovakia s.r.o.,ERNI (Slovakia) s.r.o.,Full Time,946,Other,Mgr.,Office and Travel Manager,Female,8/6/1990,Slovakia
+937,2/1/2016,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Full Time,144,Professional,"BSc Informatik, M.A. IT-Management",Professional Consultant,Male,2/8/1987,Germany
+1017,3/1/2016,NULL,Single,ERNI Consulting AG,ERNI Consulting AG,Part Time,1018,Senior,Bsc in Informatik FH,,Male,NULL,Switzerland
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

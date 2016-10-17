@@ -1,0 +1,1401 @@
+PersonId,Language,Level
+3,Czech,C1 - Upper intermediate
+3,English,C2 - Advanced
+3,Slovak,L1 - Mother Tongue
+3,Spanish,A2 - Elementary
+5,German,L1 - Mother Tongue
+5,English,C1 - Upper intermediate
+6,English,C1 - Upper intermediate
+6,German,L1 - Mother Tongue
+6,French,B2 - Intermediate
+8,German,L1 - Mother Tongue
+8,English,C2 - Advanced
+8,French,A2 - Elementary
+21,English,C2 - Advanced
+21,German,L1 - Mother Tongue
+21,Spanish,C2 - Advanced
+22,German,L1 - Mother Tongue
+22,French,B1 - Pre-intermediate
+22,English,C1 - Upper intermediate
+23,English,C2 - Advanced
+23,French,B2 - Intermediate
+23,German,L1 - Mother Tongue
+23,Portuguese,A2 - Elementary
+23,Spanish,B2 - Intermediate
+28,German,L1 - Mother Tongue
+28,English,C1 - Upper intermediate
+49,English,B2 - Intermediate
+49,French,B1 - Pre-intermediate
+49,German,L1 - Mother Tongue
+49,Spanish,A1 - Beginner
+50,German,L1 - Mother Tongue
+50,Spanish,B1 - Pre-intermediate
+50,English,C1 - Upper intermediate
+52,English,C2 - Advanced
+52,French,B2 - Intermediate
+52,Italian,A1 - Beginner
+52,German,L1 - Mother Tongue
+52,Spanish,B2 - Intermediate
+65,German,L1 - Mother Tongue
+65,French,B2 - Intermediate
+65,English,B2 - Intermediate
+76,English,C2 - Advanced
+76,French,L1 - Mother Tongue
+76,German,L1 - Mother Tongue
+81,German,A1 - Beginner
+81,Slovak,L1 - Mother Tongue
+81,Russian,B2 - Intermediate
+81,English,C2 - Advanced
+81,Czech,C2 - Advanced
+84,Czech,C2 - Advanced
+84,English,B2 - Intermediate
+84,Slovak,L1 - Mother Tongue
+84,German,C2 - Advanced
+87,Slovak,L1 - Mother Tongue
+101,French,C2 - Advanced
+101,German,L1 - Mother Tongue
+101,English,C2 - Advanced
+102,English,C1 - Upper intermediate
+102,French,L1 - Mother Tongue
+102,German,L1 - Mother Tongue
+102,Turkish,B2 - Intermediate
+118,German,L1 - Mother Tongue
+118,Italian,L1 - Mother Tongue
+118,French,B1 - Pre-intermediate
+118,English,C1 - Upper intermediate
+122,Slovak,L1 - Mother Tongue
+129,Italian,A2 - Elementary
+129,German,L1 - Mother Tongue
+129,English,C1 - Upper intermediate
+129,French,B2 - Intermediate
+136,English,C1 - Upper intermediate
+136,Dutch,C1 - Upper intermediate
+136,German,C2 - Advanced
+136,Slovak,L1 - Mother Tongue
+138,Spanish,B1 - Pre-intermediate
+138,Japanese,B1 - Pre-intermediate
+138,German,L1 - Mother Tongue
+138,English,C2 - Advanced
+138,French,B1 - Pre-intermediate
+139,French,A2 - Elementary
+139,English,C2 - Advanced
+139,German,L1 - Mother Tongue
+139,Italian,B1 - Pre-intermediate
+139,Japanese,A1 - Beginner
+139,Spanish,A1 - Beginner
+142,Turkish,L1 - Mother Tongue
+142,German,L1 - Mother Tongue
+142,English,C2 - Advanced
+149,English,C1 - Upper intermediate
+149,German,L1 - Mother Tongue
+150,German,L1 - Mother Tongue
+150,English,B2 - Intermediate
+150,French,A2 - Elementary
+158,French,B2 - Intermediate
+158,Czech,L1 - Mother Tongue
+158,English,C2 - Advanced
+158,Italian,A2 - Elementary
+158,Polish,B2 - Intermediate
+158,German,L1 - Mother Tongue
+161,German,L1 - Mother Tongue
+161,English,C1 - Upper intermediate
+161,French,A1 - Beginner
+162,English,C2 - Advanced
+162,German,L1 - Mother Tongue
+162,Italian,B2 - Intermediate
+162,Japanese,A1 - Beginner
+162,Russian,A1 - Beginner
+162,French,C1 - Upper intermediate
+162,Spanish,A2 - Elementary
+168,German,L1 - Mother Tongue
+168,English,C1 - Upper intermediate
+168,French,A2 - Elementary
+174,English,C1 - Upper intermediate
+174,Italian,A1 - Beginner
+174,German,L1 - Mother Tongue
+175,Italian,A2 - Elementary
+175,German,L1 - Mother Tongue
+175,English,C1 - Upper intermediate
+175,French,A2 - Elementary
+181,Czech,C2 - Advanced
+181,English,C2 - Advanced
+181,Hungarian,B1 - Pre-intermediate
+181,Russian,A1 - Beginner
+181,Slovak,L1 - Mother Tongue
+181,German,C2 - Advanced
+182,Slovak,L1 - Mother Tongue
+182,English,B2 - Intermediate
+183,English,C2 - Advanced
+183,Russian,A2 - Elementary
+183,German,A2 - Elementary
+185,German,L1 - Mother Tongue
+185,English,C1 - Upper intermediate
+185,French,B1 - Pre-intermediate
+185,Spanish,B2 - Intermediate
+185,Swedish,A1 - Beginner
+186,Spanish,L1 - Mother Tongue
+186,Catalan,L1 - Mother Tongue
+186,English,B1 - Pre-intermediate
+193,German,L1 - Mother Tongue
+196,Italian,A1 - Beginner
+196,German,C2 - Advanced
+196,English,B1 - Pre-intermediate
+196,French,A2 - Elementary
+196,Turkish,L1 - Mother Tongue
+199,Spanish,A1 - Beginner
+199,French,B2 - Intermediate
+199,English,C1 - Upper intermediate
+199,Italian,A1 - Beginner
+199,German,L1 - Mother Tongue
+201,German,L1 - Mother Tongue
+201,English,C1 - Upper intermediate
+201,French,B1 - Pre-intermediate
+203,German,L1 - Mother Tongue
+204,German,L1 - Mother Tongue
+206,German,L1 - Mother Tongue
+207,German,L1 - Mother Tongue
+209,German,L1 - Mother Tongue
+209,Dutch,L1 - Mother Tongue
+209,English,B2 - Intermediate
+210,German,L1 - Mother Tongue
+210,Italian,L1 - Mother Tongue
+211,German,L1 - Mother Tongue
+212,German,L1 - Mother Tongue
+213,Slovak,L1 - Mother Tongue
+215,German,L1 - Mother Tongue
+216,German,L1 - Mother Tongue
+217,German,L1 - Mother Tongue
+217,English,C1 - Upper intermediate
+219,French,L1 - Mother Tongue
+220,German,L1 - Mother Tongue
+221,German,L1 - Mother Tongue
+221,English,B2 - Intermediate
+222,English,C1 - Upper intermediate
+222,Czech,C2 - Advanced
+222,Polish,A1 - Beginner
+222,German,B2 - Intermediate
+225,Italian,A1 - Beginner
+225,German,L1 - Mother Tongue
+225,English,B2 - Intermediate
+225,French,B1 - Pre-intermediate
+227,English,C1 - Upper intermediate
+227,German,L1 - Mother Tongue
+227,French,B2 - Intermediate
+227,Spanish,A2 - Elementary
+228,Mandarin,B1 - Pre-intermediate
+228,German,L1 - Mother Tongue
+228,English,L1 - Mother Tongue
+228,French,A2 - Elementary
+229,English,C1 - Upper intermediate
+229,Czech,C2 - Advanced
+229,Slovak,L1 - Mother Tongue
+229,German,C2 - Advanced
+230,German,L1 - Mother Tongue
+231,German,L1 - Mother Tongue
+232,German,L1 - Mother Tongue
+233,German,L1 - Mother Tongue
+233,Italian,A1 - Beginner
+233,Portuguese,A2 - Elementary
+233,Spanish,L1 - Mother Tongue
+233,English,C1 - Upper intermediate
+233,French,A2 - Elementary
+234,German,L1 - Mother Tongue
+236,Slovak,L1 - Mother Tongue
+236,Czech,C2 - Advanced
+236,English,C2 - Advanced
+237,German,L1 - Mother Tongue
+237,Italian,L1 - Mother Tongue
+238,German,L1 - Mother Tongue
+238,English,C2 - Advanced
+240,German,L1 - Mother Tongue
+241,German,L1 - Mother Tongue
+241,French,B2 - Intermediate
+241,English,B2 - Intermediate
+241,Mandarin,A1 - Beginner
+242,English,C1 - Upper intermediate
+242,German,A2 - Elementary
+243,Slovak,L1 - Mother Tongue
+243,Russian,A2 - Elementary
+243,English,C2 - Advanced
+244,English,C2 - Advanced
+244,German,C1 - Upper intermediate
+245,German,C1 - Upper intermediate
+245,English,C2 - Advanced
+245,French,L1 - Mother Tongue
+249,English,C2 - Advanced
+249,German,C2 - Advanced
+250,German,L1 - Mother Tongue
+251,German,L1 - Mother Tongue
+251,French,B2 - Intermediate
+251,English,B2 - Intermediate
+252,English,C1 - Upper intermediate
+252,Hungarian,L1 - Mother Tongue
+252,Slovak,L1 - Mother Tongue
+253,German,L1 - Mother Tongue
+253,Swedish,L1 - Mother Tongue
+254,Spanish,L1 - Mother Tongue
+254,German,A1 - Beginner
+254,English,C1 - Upper intermediate
+254,French,A2 - Elementary
+255,English,C1 - Upper intermediate
+255,Spanish,L1 - Mother Tongue
+255,Catalan,L1 - Mother Tongue
+256,Spanish,L1 - Mother Tongue
+257,Spanish,L1 - Mother Tongue
+257,Portuguese,B1 - Pre-intermediate
+258,Spanish,L1 - Mother Tongue
+258,English,C1 - Upper intermediate
+259,English,C2 - Advanced
+259,Spanish,L1 - Mother Tongue
+259,Portuguese,B1 - Pre-intermediate
+259,German,C1 - Upper intermediate
+260,German,L1 - Mother Tongue
+261,German,L1 - Mother Tongue
+261,Italian,A2 - Elementary
+261,French,B2 - Intermediate
+261,English,B2 - Intermediate
+262,German,L1 - Mother Tongue
+263,German,L1 - Mother Tongue
+264,German,L1 - Mother Tongue
+265,German,A2 - Elementary
+265,Slovak,L1 - Mother Tongue
+265,English,B2 - Intermediate
+266,English,C2 - Advanced
+266,Slovak,L1 - Mother Tongue
+266,German,B2 - Intermediate
+267,French,C1 - Upper intermediate
+267,German,L1 - Mother Tongue
+267,English,C2 - Advanced
+267,Spanish,B2 - Intermediate
+268,German,L1 - Mother Tongue
+269,German,L1 - Mother Tongue
+269,English,C2 - Advanced
+270,English,C2 - Advanced
+270,German,L1 - Mother Tongue
+270,Turkish,L1 - Mother Tongue
+272,Swedish,B2 - Intermediate
+272,English,C2 - Advanced
+272,French,A1 - Beginner
+272,Finnish,L1 - Mother Tongue
+277,Spanish,L1 - Mother Tongue
+278,Slovak,L1 - Mother Tongue
+278,German,A2 - Elementary
+278,English,C2 - Advanced
+279,English,B2 - Intermediate
+279,German,A1 - Beginner
+279,Slovak,L1 - Mother Tongue
+280,Spanish,L1 - Mother Tongue
+280,Romanian,A2 - Elementary
+280,English,C2 - Advanced
+280,Catalan,L1 - Mother Tongue
+281,English,C2 - Advanced
+281,Czech,L1 - Mother Tongue
+281,Slovak,L1 - Mother Tongue
+281,German,C1 - Upper intermediate
+284,German,L1 - Mother Tongue
+284,English,C1 - Upper intermediate
+284,French,A2 - Elementary
+285,English,C2 - Advanced
+285,Spanish,L1 - Mother Tongue
+287,English,C2 - Advanced
+289,English,C2 - Advanced
+289,Bulgarian,L1 - Mother Tongue
+289,German,C2 - Advanced
+291,English,B2 - Intermediate
+294,English,L1 - Mother Tongue
+296,English,C2 - Advanced
+296,German,C2 - Advanced
+296,Slovak,L1 - Mother Tongue
+296,Spanish,A2 - Elementary
+297,English,C2 - Advanced
+302,English,C1 - Upper intermediate
+302,French,B1 - Pre-intermediate
+302,Spanish,A2 - Elementary
+302,German,L1 - Mother Tongue
+309,German,B1 - Pre-intermediate
+309,English,C2 - Advanced
+311,Croatian,B2 - Intermediate
+311,Czech,B2 - Intermediate
+311,English,C1 - Upper intermediate
+311,German,C1 - Upper intermediate
+311,Slovak,C2 - Advanced
+317,Slovak,L1 - Mother Tongue
+317,German,A2 - Elementary
+317,English,B2 - Intermediate
+318,English,B2 - Intermediate
+318,German,C2 - Advanced
+318,Slovak,L1 - Mother Tongue
+319,German,L1 - Mother Tongue
+330,German,B2 - Intermediate
+330,English,C2 - Advanced
+330,Dutch,L1 - Mother Tongue
+330,Spanish,C2 - Advanced
+331,English,C2 - Advanced
+331,French,C2 - Advanced
+331,German,L1 - Mother Tongue
+332,German,A2 - Elementary
+332,Slovak,L1 - Mother Tongue
+332,English,B2 - Intermediate
+332,Czech,L1 - Mother Tongue
+337,German,L1 - Mother Tongue
+338,German,L1 - Mother Tongue
+340,German,B1 - Pre-intermediate
+340,Russian,A2 - Elementary
+340,Czech,C2 - Advanced
+340,English,C1 - Upper intermediate
+340,Ukrainian,A2 - Elementary
+341,German,L1 - Mother Tongue
+342,German,L1 - Mother Tongue
+344,German,A2 - Elementary
+344,Slovak,L1 - Mother Tongue
+344,English,C1 - Upper intermediate
+345,English,B2 - Intermediate
+345,Czech,B2 - Intermediate
+345,Hungarian,C1 - Upper intermediate
+345,German,B2 - Intermediate
+346,German,B2 - Intermediate
+346,English,B2 - Intermediate
+349,German,L1 - Mother Tongue
+350,German,L1 - Mother Tongue
+358,German,L1 - Mother Tongue
+358,English,C2 - Advanced
+358,French,B1 - Pre-intermediate
+363,German,L1 - Mother Tongue
+364,German,C1 - Upper intermediate
+364,English,L1 - Mother Tongue
+380,English,B2 - Intermediate
+380,German,A2 - Elementary
+380,Slovak,L1 - Mother Tongue
+381,Slovak,L1 - Mother Tongue
+383,Filipino,L1 - Mother Tongue
+385,German,L1 - Mother Tongue
+388,Spanish,L1 - Mother Tongue
+389,Slovak,L1 - Mother Tongue
+390,German,L1 - Mother Tongue
+392,German,C1 - Upper intermediate
+392,Slovak,L1 - Mother Tongue
+392,English,C2 - Advanced
+393,Czech,C1 - Upper intermediate
+393,English,C2 - Advanced
+393,French,A2 - Elementary
+393,Slovak,L1 - Mother Tongue
+393,German,C1 - Upper intermediate
+394,German,C2 - Advanced
+394,French,L1 - Mother Tongue
+394,English,C2 - Advanced
+394,Spanish,A2 - Elementary
+396,English,C2 - Advanced
+396,French,A2 - Elementary
+396,Spanish,L1 - Mother Tongue
+397,German,A1 - Beginner
+398,Slovak,L1 - Mother Tongue
+398,English,C1 - Upper intermediate
+398,Czech,C2 - Advanced
+399,Czech,C2 - Advanced
+399,English,C2 - Advanced
+399,Slovak,L1 - Mother Tongue
+399,German,B1 - Pre-intermediate
+401,German,L1 - Mother Tongue
+401,Croatian,L1 - Mother Tongue
+401,English,C1 - Upper intermediate
+402,French,B1 - Pre-intermediate
+402,English,B2 - Intermediate
+402,German,L1 - Mother Tongue
+403,English,C2 - Advanced
+403,Filipino,L1 - Mother Tongue
+406,English,B2 - Intermediate
+406,French,A2 - Elementary
+406,German,L1 - Mother Tongue
+409,German,A2 - Elementary
+409,Slovak,L1 - Mother Tongue
+409,French,A1 - Beginner
+409,English,C1 - Upper intermediate
+413,English,L1 - Mother Tongue
+413,Filipino,A2 - Elementary
+417,English,C1 - Upper intermediate
+417,French,A2 - Elementary
+417,German,L1 - Mother Tongue
+418,German,L1 - Mother Tongue
+418,Portuguese,B1 - Pre-intermediate
+418,English,C2 - Advanced
+418,Spanish,A2 - Elementary
+420,English,B2 - Intermediate
+420,Czech,C2 - Advanced
+420,Slovak,L1 - Mother Tongue
+420,Russian,A2 - Elementary
+420,German,A2 - Elementary
+421,German,B2 - Intermediate
+421,Slovak,L1 - Mother Tongue
+421,English,B2 - Intermediate
+423,English,B2 - Intermediate
+423,Slovak,L1 - Mother Tongue
+423,German,B1 - Pre-intermediate
+427,German,L1 - Mother Tongue
+427,English,B2 - Intermediate
+427,French,L1 - Mother Tongue
+429,French,A2 - Elementary
+429,English,B2 - Intermediate
+429,German,L1 - Mother Tongue
+430,German,L1 - Mother Tongue
+433,German,C2 - Advanced
+433,Slovak,L1 - Mother Tongue
+433,Russian,B2 - Intermediate
+433,English,C2 - Advanced
+433,Czech,C1 - Upper intermediate
+433,French,A2 - Elementary
+434,English,C1 - Upper intermediate
+434,Slovak,L1 - Mother Tongue
+435,English,B2 - Intermediate
+436,English,C1 - Upper intermediate
+436,Slovak,L1 - Mother Tongue
+439,Slovak,L1 - Mother Tongue
+439,German,A2 - Elementary
+439,English,C1 - Upper intermediate
+441,English,C2 - Advanced
+441,German,A2 - Elementary
+444,German,C2 - Advanced
+444,Russian,A1 - Beginner
+444,Dutch,L1 - Mother Tongue
+444,English,C2 - Advanced
+444,French,A1 - Beginner
+447,English,B1 - Pre-intermediate
+448,German,L1 - Mother Tongue
+449,Italian,L1 - Mother Tongue
+450,English,C1 - Upper intermediate
+450,Filipino,L1 - Mother Tongue
+451,Spanish,A2 - Elementary
+451,French,C1 - Upper intermediate
+451,Dutch,A1 - Beginner
+451,English,C2 - Advanced
+451,Italian,B1 - Pre-intermediate
+451,German,L1 - Mother Tongue
+453,German,L1 - Mother Tongue
+453,English,C1 - Upper intermediate
+454,English,C1 - Upper intermediate
+454,German,A1 - Beginner
+454,Hungarian,C2 - Advanced
+454,Slovak,L1 - Mother Tongue
+454,Spanish,A1 - Beginner
+456,German,L1 - Mother Tongue
+456,English,C1 - Upper intermediate
+456,French,A2 - Elementary
+457,English,C2 - Advanced
+457,German,L1 - Mother Tongue
+458,German,L1 - Mother Tongue
+458,French,A2 - Elementary
+458,English,C1 - Upper intermediate
+459,French,L1 - Mother Tongue
+459,English,C2 - Advanced
+459,German,C2 - Advanced
+460,German,L1 - Mother Tongue
+460,English,C2 - Advanced
+460,French,B1 - Pre-intermediate
+461,English,C2 - Advanced
+461,German,L1 - Mother Tongue
+462,German,L1 - Mother Tongue
+462,French,B1 - Pre-intermediate
+462,English,C1 - Upper intermediate
+462,Swedish,A2 - Elementary
+463,Spanish,L1 - Mother Tongue
+463,Catalan,L1 - Mother Tongue
+463,English,C1 - Upper intermediate
+463,French,A2 - Elementary
+464,French,A2 - Elementary
+464,English,C2 - Advanced
+464,Spanish,L1 - Mother Tongue
+464,Mandarin,A1 - Beginner
+464,Catalan,L1 - Mother Tongue
+467,Slovak,L1 - Mother Tongue
+467,English,C1 - Upper intermediate
+469,Slovak,L1 - Mother Tongue
+471,English,C2 - Advanced
+471,Spanish,L1 - Mother Tongue
+472,Slovak,L1 - Mother Tongue
+476,Slovak,L1 - Mother Tongue
+476,English,C1 - Upper intermediate
+479,English,B2 - Intermediate
+479,Spanish,L1 - Mother Tongue
+480,English,B2 - Intermediate
+480,German,L1 - Mother Tongue
+484,German,C1 - Upper intermediate
+484,English,C1 - Upper intermediate
+485,Slovak,L1 - Mother Tongue
+491,Slovak,L1 - Mother Tongue
+491,German,B1 - Pre-intermediate
+491,English,C1 - Upper intermediate
+494,French,A2 - Elementary
+494,English,C2 - Advanced
+494,German,L1 - Mother Tongue
+500,Slovak,L1 - Mother Tongue
+501,English,C2 - Advanced
+501,Spanish,L1 - Mother Tongue
+503,French,B1 - Pre-intermediate
+503,English,C1 - Upper intermediate
+503,German,L1 - Mother Tongue
+504,German,L1 - Mother Tongue
+504,French,B1 - Pre-intermediate
+504,English,C2 - Advanced
+507,English,C1 - Upper intermediate
+507,German,L1 - Mother Tongue
+509,English,C1 - Upper intermediate
+510,English,C1 - Upper intermediate
+510,Filipino,L1 - Mother Tongue
+511,Filipino,L1 - Mother Tongue
+511,Mandarin,A2 - Elementary
+511,English,B2 - Intermediate
+512,English,C2 - Advanced
+512,Spanish,L1 - Mother Tongue
+518,Czech,C2 - Advanced
+518,English,C1 - Upper intermediate
+518,Slovak,L1 - Mother Tongue
+519,Slovak,L1 - Mother Tongue
+519,Hungarian,C2 - Advanced
+519,German,B2 - Intermediate
+519,English,C1 - Upper intermediate
+520,English,B2 - Intermediate
+520,German,L1 - Mother Tongue
+520,French,B2 - Intermediate
+523,German,L1 - Mother Tongue
+523,Italian,C2 - Advanced
+523,English,C1 - Upper intermediate
+523,French,B1 - Pre-intermediate
+523,Spanish,A1 - Beginner
+524,English,C2 - Advanced
+524,Russian,B2 - Intermediate
+524,French,L1 - Mother Tongue
+524,German,C2 - Advanced
+528,German,L1 - Mother Tongue
+528,Spanish,B1 - Pre-intermediate
+528,French,A2 - Elementary
+528,English,C1 - Upper intermediate
+531,English,C2 - Advanced
+531,Dutch,B2 - Intermediate
+531,French,C2 - Advanced
+531,German,A1 - Beginner
+531,Catalan,L1 - Mother Tongue
+533,Catalan,L1 - Mother Tongue
+533,Spanish,L1 - Mother Tongue
+533,English,C1 - Upper intermediate
+535,Slovak,L1 - Mother Tongue
+539,Slovak,L1 - Mother Tongue
+539,Hungarian,L1 - Mother Tongue
+539,German,B2 - Intermediate
+539,English,B2 - Intermediate
+541,English,B2 - Intermediate
+541,Czech,C2 - Advanced
+541,German,B1 - Pre-intermediate
+541,Slovak,L1 - Mother Tongue
+543,Hungarian,B1 - Pre-intermediate
+543,German,B2 - Intermediate
+543,Czech,C2 - Advanced
+543,English,C2 - Advanced
+544,French,A2 - Elementary
+544,German,L1 - Mother Tongue
+545,German,B2 - Intermediate
+545,Slovak,L1 - Mother Tongue
+545,English,A2 - Elementary
+546,English,C2 - Advanced
+546,French,C1 - Upper intermediate
+546,Russian,A1 - Beginner
+546,Italian,L1 - Mother Tongue
+546,German,L1 - Mother Tongue
+546,Spanish,A2 - Elementary
+547,Mandarin,C2 - Advanced
+547,Cantonese,L1 - Mother Tongue
+547,German,L1 - Mother Tongue
+547,French,B1 - Pre-intermediate
+547,English,C2 - Advanced
+550,Slovak,L1 - Mother Tongue
+551,Slovak,L1 - Mother Tongue
+552,Slovak,L1 - Mother Tongue
+552,German,B1 - Pre-intermediate
+552,English,B2 - Intermediate
+556,English,C2 - Advanced
+556,Catalan,L1 - Mother Tongue
+556,Spanish,L1 - Mother Tongue
+557,Spanish,C2 - Advanced
+557,Catalan,B1 - Pre-intermediate
+557,English,C2 - Advanced
+557,German,A1 - Beginner
+557,Italian,L1 - Mother Tongue
+558,Slovak,L1 - Mother Tongue
+558,English,C1 - Upper intermediate
+559,English,C2 - Advanced
+559,Italian,B2 - Intermediate
+559,Spanish,L1 - Mother Tongue
+563,Spanish,L1 - Mother Tongue
+563,English,C2 - Advanced
+575,English,C1 - Upper intermediate
+575,Slovak,L1 - Mother Tongue
+575,German,B1 - Pre-intermediate
+578,German,A1 - Beginner
+578,Slovak,L1 - Mother Tongue
+578,English,C1 - Upper intermediate
+583,English,C2 - Advanced
+583,German,L1 - Mother Tongue
+583,French,C2 - Advanced
+584,German,C2 - Advanced
+584,English,L1 - Mother Tongue
+586,English,B2 - Intermediate
+586,French,B1 - Pre-intermediate
+586,German,L1 - Mother Tongue
+586,Spanish,B2 - Intermediate
+588,Spanish,L1 - Mother Tongue
+588,Catalan,L1 - Mother Tongue
+588,English,C1 - Upper intermediate
+590,English,C1 - Upper intermediate
+590,German,L1 - Mother Tongue
+593,English,C1 - Upper intermediate
+593,Catalan,L1 - Mother Tongue
+593,Spanish,L1 - Mother Tongue
+595,Spanish,L1 - Mother Tongue
+595,English,C2 - Advanced
+595,Portuguese,B2 - Intermediate
+596,French,L1 - Mother Tongue
+596,English,C2 - Advanced
+596,Spanish,C1 - Upper intermediate
+598,Spanish,L1 - Mother Tongue
+598,English,B1 - Pre-intermediate
+601,English,C2 - Advanced
+601,Spanish,L1 - Mother Tongue
+601,Catalan,L1 - Mother Tongue
+602,Catalan,L1 - Mother Tongue
+602,Spanish,L1 - Mother Tongue
+603,Mandarin,A1 - Beginner
+603,English,C2 - Advanced
+603,German,L1 - Mother Tongue
+605,German,L1 - Mother Tongue
+605,French,B2 - Intermediate
+605,English,B1 - Pre-intermediate
+605,Spanish,A1 - Beginner
+613,English,C1 - Upper intermediate
+613,German,C1 - Upper intermediate
+613,Hungarian,L1 - Mother Tongue
+613,Spanish,A2 - Elementary
+615,Spanish,B1 - Pre-intermediate
+615,Polish,L1 - Mother Tongue
+615,English,C1 - Upper intermediate
+616,English,B2 - Intermediate
+616,Russian,L1 - Mother Tongue
+616,German,C2 - Advanced
+619,German,C2 - Advanced
+619,Polish,L1 - Mother Tongue
+619,English,C2 - Advanced
+620,English,C1 - Upper intermediate
+620,Spanish,B1 - Pre-intermediate
+620,French,B2 - Intermediate
+620,German,L1 - Mother Tongue
+622,German,C2 - Advanced
+622,Russian,L1 - Mother Tongue
+622,English,C2 - Advanced
+623,English,C1 - Upper intermediate
+623,French,B1 - Pre-intermediate
+623,Spanish,B1 - Pre-intermediate
+623,German,L1 - Mother Tongue
+624,German,A1 - Beginner
+624,English,C1 - Upper intermediate
+625,Dutch,A1 - Beginner
+625,English,C2 - Advanced
+625,Spanish,L1 - Mother Tongue
+625,Catalan,L1 - Mother Tongue
+627,Filipino,B1 - Pre-intermediate
+627,English,L1 - Mother Tongue
+629,English,C1 - Upper intermediate
+629,Arabic,A1 - Beginner
+629,Filipino,L1 - Mother Tongue
+630,English,C2 - Advanced
+630,German,A1 - Beginner
+630,Slovak,L1 - Mother Tongue
+631,German,L1 - Mother Tongue
+631,English,C1 - Upper intermediate
+634,English,C1 - Upper intermediate
+634,Filipino,L1 - Mother Tongue
+638,Catalan,L1 - Mother Tongue
+638,Spanish,L1 - Mother Tongue
+638,English,B2 - Intermediate
+638,Italian,A2 - Elementary
+639,Italian,A2 - Elementary
+639,German,L1 - Mother Tongue
+639,French,C1 - Upper intermediate
+639,English,B2 - Intermediate
+641,French,B2 - Intermediate
+641,English,C1 - Upper intermediate
+641,German,C2 - Advanced
+641,Russian,L1 - Mother Tongue
+641,Ukrainian,L1 - Mother Tongue
+643,Slovak,L1 - Mother Tongue
+643,German,B1 - Pre-intermediate
+643,English,C2 - Advanced
+645,English,C1 - Upper intermediate
+645,French,A2 - Elementary
+645,Spanish,L1 - Mother Tongue
+645,Catalan,L1 - Mother Tongue
+648,French,A2 - Elementary
+648,English,L1 - Mother Tongue
+648,Slovak,B1 - Pre-intermediate
+653,Slovak,L1 - Mother Tongue
+653,English,C2 - Advanced
+653,Czech,C2 - Advanced
+654,French,A2 - Elementary
+654,English,C1 - Upper intermediate
+654,German,L1 - Mother Tongue
+655,German,L1 - Mother Tongue
+655,English,C1 - Upper intermediate
+659,French,B1 - Pre-intermediate
+659,English,C2 - Advanced
+659,German,L1 - Mother Tongue
+663,Slovak,L1 - Mother Tongue
+671,Japanese,A2 - Elementary
+671,English,B2 - Intermediate
+671,Filipino,L1 - Mother Tongue
+672,French,C1 - Upper intermediate
+672,English,C2 - Advanced
+672,Italian,A2 - Elementary
+672,German,L1 - Mother Tongue
+674,English,B2 - Intermediate
+674,Filipino,L1 - Mother Tongue
+677,Czech,C2 - Advanced
+677,French,A2 - Elementary
+677,English,B2 - Intermediate
+677,German,A1 - Beginner
+677,Slovak,L1 - Mother Tongue
+681,German,A2 - Elementary
+681,French,L1 - Mother Tongue
+681,English,C1 - Upper intermediate
+685,English,C1 - Upper intermediate
+685,Catalan,L1 - Mother Tongue
+685,Spanish,L1 - Mother Tongue
+687,English,C1 - Upper intermediate
+687,German,B1 - Pre-intermediate
+687,Slovak,L1 - Mother Tongue
+687,Polish,B2 - Intermediate
+688,Russian,A1 - Beginner
+688,German,L1 - Mother Tongue
+688,English,B2 - Intermediate
+689,English,C2 - Advanced
+689,German,C2 - Advanced
+689,Greek,L1 - Mother Tongue
+690,German,L1 - Mother Tongue
+690,English,C1 - Upper intermediate
+690,French,B2 - Intermediate
+691,English,C2 - Advanced
+691,Czech,C2 - Advanced
+691,Slovak,L1 - Mother Tongue
+694,German,L1 - Mother Tongue
+694,English,C2 - Advanced
+694,French,B2 - Intermediate
+694,Spanish,L1 - Mother Tongue
+696,Polish,L1 - Mother Tongue
+700,English,C1 - Upper intermediate
+700,Spanish,L1 - Mother Tongue
+700,Catalan,L1 - Mother Tongue
+701,Spanish,A1 - Beginner
+701,French,B2 - Intermediate
+701,English,C2 - Advanced
+701,Italian,A1 - Beginner
+701,German,L1 - Mother Tongue
+702,German,C2 - Advanced
+702,Polish,L1 - Mother Tongue
+702,English,C2 - Advanced
+702,French,B2 - Intermediate
+703,French,B1 - Pre-intermediate
+703,English,C1 - Upper intermediate
+703,Slovak,L1 - Mother Tongue
+703,German,B2 - Intermediate
+704,English,C1 - Upper intermediate
+704,Spanish,L1 - Mother Tongue
+704,Catalan,L1 - Mother Tongue
+705,Catalan,L1 - Mother Tongue
+705,Spanish,L1 - Mother Tongue
+705,English,B2 - Intermediate
+705,Japanese,A1 - Beginner
+706,Spanish,B1 - Pre-intermediate
+706,German,L1 - Mother Tongue
+706,French,C1 - Upper intermediate
+706,English,C2 - Advanced
+706,Mandarin,B1 - Pre-intermediate
+715,Cantonese,A2 - Elementary
+715,Mandarin,L1 - Mother Tongue
+715,Spanish,B2 - Intermediate
+715,English,C1 - Upper intermediate
+715,German,A1 - Beginner
+716,German,C1 - Upper intermediate
+716,English,B2 - Intermediate
+717,Spanish,L1 - Mother Tongue
+717,Catalan,L1 - Mother Tongue
+718,Catalan,L1 - Mother Tongue
+718,Spanish,L1 - Mother Tongue
+718,English,C2 - Advanced
+719,English,C2 - Advanced
+719,German,A1 - Beginner
+719,Slovak,L1 - Mother Tongue
+719,Spanish,A1 - Beginner
+720,Spanish,C2 - Advanced
+720,Catalan,C1 - Upper intermediate
+720,Italian,L1 - Mother Tongue
+720,English,C2 - Advanced
+720,French,A2 - Elementary
+721,English,L1 - Mother Tongue
+721,Italian,C2 - Advanced
+721,Portuguese,C1 - Upper intermediate
+721,German,B1 - Pre-intermediate
+721,French,C2 - Advanced
+721,Catalan,C2 - Advanced
+721,Spanish,C2 - Advanced
+724,German,A1 - Beginner
+724,Slovak,L1 - Mother Tongue
+724,Czech,C2 - Advanced
+724,English,C1 - Upper intermediate
+728,English,C1 - Upper intermediate
+728,Slovak,L1 - Mother Tongue
+728,Hungarian,C1 - Upper intermediate
+728,German,A2 - Elementary
+729,German,B2 - Intermediate
+729,Slovak,L1 - Mother Tongue
+729,English,C1 - Upper intermediate
+734,English,C1 - Upper intermediate
+734,French,A2 - Elementary
+734,German,L1 - Mother Tongue
+736,German,L1 - Mother Tongue
+736,English,C1 - Upper intermediate
+737,English,C1 - Upper intermediate
+737,French,A1 - Beginner
+737,German,L1 - Mother Tongue
+739,German,L1 - Mother Tongue
+739,English,C1 - Upper intermediate
+750,English,C2 - Advanced
+750,German,C1 - Upper intermediate
+750,Russian,B1 - Pre-intermediate
+750,Spanish,L1 - Mother Tongue
+750,Catalan,L1 - Mother Tongue
+753,Catalan,L1 - Mother Tongue
+753,Spanish,L1 - Mother Tongue
+753,English,B2 - Intermediate
+754,English,C2 - Advanced
+754,Spanish,L1 - Mother Tongue
+754,Catalan,L1 - Mother Tongue
+757,English,C2 - Advanced
+757,Slovak,L1 - Mother Tongue
+758,Slovak,L1 - Mother Tongue
+758,German,B1 - Pre-intermediate
+758,English,B2 - Intermediate
+759,English,B2 - Intermediate
+759,German,C2 - Advanced
+759,Slovak,L1 - Mother Tongue
+760,English,C1 - Upper intermediate
+760,Spanish,L1 - Mother Tongue
+761,English,C2 - Advanced
+761,French,C2 - Advanced
+761,German,L1 - Mother Tongue
+762,German,L1 - Mother Tongue
+765,German,L1 - Mother Tongue
+766,German,A1 - Beginner
+766,English,B2 - Intermediate
+766,French,A2 - Elementary
+766,Spanish,L1 - Mother Tongue
+766,Catalan,L1 - Mother Tongue
+773,English,C1 - Upper intermediate
+773,Czech,C2 - Advanced
+773,German,C2 - Advanced
+773,Slovak,L1 - Mother Tongue
+777,German,L1 - Mother Tongue
+782,English,B2 - Intermediate
+782,Spanish,L1 - Mother Tongue
+783,Spanish,L1 - Mother Tongue
+783,Catalan,L1 - Mother Tongue
+783,English,B1 - Pre-intermediate
+787,English,C2 - Advanced
+787,French,A2 - Elementary
+787,German,L1 - Mother Tongue
+789,German,C2 - Advanced
+789,Italian,A2 - Elementary
+789,French,A2 - Elementary
+789,English,C2 - Advanced
+789,Spanish,L1 - Mother Tongue
+791,Spanish,L1 - Mother Tongue
+791,Catalan,L1 - Mother Tongue
+791,English,A2 - Elementary
+791,French,A1 - Beginner
+793,English,C1 - Upper intermediate
+793,Spanish,L1 - Mother Tongue
+794,Spanish,L1 - Mother Tongue
+794,English,C2 - Advanced
+794,German,A2 - Elementary
+805,German,L1 - Mother Tongue
+805,English,B2 - Intermediate
+807,English,C1 - Upper intermediate
+807,French,A2 - Elementary
+807,German,L1 - Mother Tongue
+807,Spanish,A1 - Beginner
+813,German,B2 - Intermediate
+813,English,C1 - Upper intermediate
+817,English,B2 - Intermediate
+817,Spanish,L1 - Mother Tongue
+817,Catalan,L1 - Mother Tongue
+818,Catalan,C1 - Upper intermediate
+818,Spanish,L1 - Mother Tongue
+818,French,C1 - Upper intermediate
+818,English,C2 - Advanced
+820,English,C1 - Upper intermediate
+820,German,B2 - Intermediate
+823,German,A1 - Beginner
+823,Slovak,L1 - Mother Tongue
+823,Russian,A2 - Elementary
+823,English,C1 - Upper intermediate
+824,English,C2 - Advanced
+824,German,L1 - Mother Tongue
+828,English,C2 - Advanced
+828,French,A1 - Beginner
+828,Spanish,L1 - Mother Tongue
+828,Catalan,L1 - Mother Tongue
+829,Spanish,L1 - Mother Tongue
+829,English,C1 - Upper intermediate
+830,English,A2 - Elementary
+830,German,B1 - Pre-intermediate
+836,Romanian,L1 - Mother Tongue
+836,English,C1 - Upper intermediate
+836,French,A1 - Beginner
+843,French,B1 - Pre-intermediate
+843,English,C2 - Advanced
+843,Romanian,L1 - Mother Tongue
+843,Italian,A1 - Beginner
+843,German,B2 - Intermediate
+846,German,A1 - Beginner
+846,Italian,C1 - Upper intermediate
+846,Portuguese,L1 - Mother Tongue
+846,English,C2 - Advanced
+846,Dutch,A1 - Beginner
+846,French,A1 - Beginner
+846,Spanish,C2 - Advanced
+846,Catalan,A2 - Elementary
+848,Spanish,A2 - Elementary
+848,French,C1 - Upper intermediate
+848,English,C2 - Advanced
+848,Italian,L1 - Mother Tongue
+848,German,L1 - Mother Tongue
+849,German,B2 - Intermediate
+849,Romanian,L1 - Mother Tongue
+849,English,C2 - Advanced
+850,English,B2 - Intermediate
+850,German,A1 - Beginner
+850,Spanish,L1 - Mother Tongue
+850,Catalan,L1 - Mother Tongue
+852,Catalan,L1 - Mother Tongue
+852,Spanish,L1 - Mother Tongue
+852,French,A1 - Beginner
+852,English,C2 - Advanced
+855,English,A2 - Elementary
+855,Spanish,C2 - Advanced
+856,Spanish,L1 - Mother Tongue
+856,Catalan,L1 - Mother Tongue
+856,English,B2 - Intermediate
+857,English,B2 - Intermediate
+857,French,A1 - Beginner
+857,Catalan,L1 - Mother Tongue
+857,Spanish,L1 - Mother Tongue
+858,Spanish,L1 - Mother Tongue
+858,English,C1 - Upper intermediate
+859,English,C2 - Advanced
+859,Russian,L1 - Mother Tongue
+859,Spanish,C2 - Advanced
+859,Catalan,C1 - Upper intermediate
+860,German,L1 - Mother Tongue
+860,English,B2 - Intermediate
+860,French,A1 - Beginner
+861,French,A2 - Elementary
+861,English,B1 - Pre-intermediate
+861,German,L1 - Mother Tongue
+862,German,B1 - Pre-intermediate
+862,Slovak,L1 - Mother Tongue
+862,Japanese,A1 - Beginner
+862,English,C1 - Upper intermediate
+863,English,B1 - Pre-intermediate
+863,Spanish,L1 - Mother Tongue
+864,Spanish,L1 - Mother Tongue
+864,English,B2 - Intermediate
+864,German,B2 - Intermediate
+866,English,B2 - Intermediate
+866,Spanish,L1 - Mother Tongue
+866,Catalan,C2 - Advanced
+868,Spanish,L1 - Mother Tongue
+868,English,C1 - Upper intermediate
+868,French,A1 - Beginner
+868,Estonian,A1 - Beginner
+869,French,C1 - Upper intermediate
+869,English,C1 - Upper intermediate
+869,Spanish,L1 - Mother Tongue
+869,Catalan,L1 - Mother Tongue
+869,Arabic,L1 - Mother Tongue
+870,Spanish,L1 - Mother Tongue
+870,English,C2 - Advanced
+870,Italian,C1 - Upper intermediate
+872,German,A2 - Elementary
+872,English,C1 - Upper intermediate
+874,English,C2 - Advanced
+874,Polish,L1 - Mother Tongue
+874,Spanish,A1 - Beginner
+875,Filipino,C2 - Advanced
+875,English,C2 - Advanced
+876,English,B2 - Intermediate
+876,Catalan,L1 - Mother Tongue
+876,Spanish,L1 - Mother Tongue
+877,English,C1 - Upper intermediate
+877,Romanian,L1 - Mother Tongue
+877,Italian,B1 - Pre-intermediate
+877,German,B2 - Intermediate
+878,German,L1 - Mother Tongue
+878,Italian,B1 - Pre-intermediate
+878,English,C1 - Upper intermediate
+878,French,C1 - Upper intermediate
+880,English,B2 - Intermediate
+880,Spanish,L1 - Mother Tongue
+880,Catalan,B2 - Intermediate
+883,Spanish,L1 - Mother Tongue
+883,English,B2 - Intermediate
+884,English,C2 - Advanced
+884,Portuguese,L1 - Mother Tongue
+884,Spanish,C2 - Advanced
+886,Spanish,L1 - Mother Tongue
+886,English,C2 - Advanced
+890,English,L1 - Mother Tongue
+890,French,A2 - Elementary
+890,German,L1 - Mother Tongue
+890,Arabic,L1 - Mother Tongue
+894,Filipino,L1 - Mother Tongue
+894,English,C2 - Advanced
+899,French,B1 - Pre-intermediate
+899,English,C1 - Upper intermediate
+899,German,A1 - Beginner
+899,Romanian,L1 - Mother Tongue
+899,Italian,B1 - Pre-intermediate
+901,Russian,L1 - Mother Tongue
+901,German,C1 - Upper intermediate
+901,English,C1 - Upper intermediate
+903,English,B2 - Intermediate
+903,Filipino,L1 - Mother Tongue
+910,English,C1 - Upper intermediate
+910,German,L1 - Mother Tongue
+915,Italian,C1 - Upper intermediate
+915,English,C1 - Upper intermediate
+915,Spanish,L1 - Mother Tongue
+919,English,C2 - Advanced
+919,German,L1 - Mother Tongue
+919,French,L1 - Mother Tongue
+926,German,B1 - Pre-intermediate
+926,Romanian,L1 - Mother Tongue
+926,English,B2 - Intermediate
+926,French,A2 - Elementary
+926,Spanish,A1 - Beginner
+932,French,A1 - Beginner
+932,English,C2 - Advanced
+932,Romanian,L1 - Mother Tongue
+937,Russian,A1 - Beginner
+937,German,L1 - Mother Tongue
+937,English,C2 - Advanced
+939,English,B2 - Intermediate
+939,Slovak,L1 - Mother Tongue
+942,Japanese,A1 - Beginner
+942,English,C2 - Advanced
+942,Filipino,L1 - Mother Tongue
+943,English,B2 - Intermediate
+946,English,C2 - Advanced
+946,Slovak,L1 - Mother Tongue
+946,German,C1 - Upper intermediate
+948,German,C1 - Upper intermediate
+948,Russian,A2 - Elementary
+948,Hungarian,A1 - Beginner
+948,Czech,B1 - Pre-intermediate
+948,English,B2 - Intermediate
+949,English,C1 - Upper intermediate
+949,Slovak,L1 - Mother Tongue
+949,German,B1 - Pre-intermediate
+952,German,A2 - Elementary
+952,English,C2 - Advanced
+952,Turkish,A2 - Elementary
+957,English,L1 - Mother Tongue
+957,German,L1 - Mother Tongue
+958,German,C2 - Advanced
+958,Slovak,L1 - Mother Tongue
+958,English,C1 - Upper intermediate
+958,French,B2 - Intermediate
+961,English,C1 - Upper intermediate
+961,Croatian,A1 - Beginner
+961,Slovak,L1 - Mother Tongue
+961,German,B1 - Pre-intermediate
+962,Slovak,L1 - Mother Tongue
+962,Czech,C2 - Advanced
+962,English,B2 - Intermediate
+964,English,B2 - Intermediate
+964,Spanish,L1 - Mother Tongue
+964,Catalan,L1 - Mother Tongue
+966,English,C2 - Advanced
+966,Japanese,A1 - Beginner
+966,German,A2 - Elementary
+966,French,L1 - Mother Tongue
+968,German,A2 - Elementary
+968,English,B2 - Intermediate
+969,English,C1 - Upper intermediate
+969,German,A2 - Elementary
+969,Spanish,L1 - Mother Tongue
+970,Spanish,L1 - Mother Tongue
+970,German,B1 - Pre-intermediate
+970,English,C2 - Advanced
+971,English,B2 - Intermediate
+971,Filipino,C2 - Advanced
+975,English,C2 - Advanced
+975,German,C2 - Advanced
+975,Slovak,L1 - Mother Tongue
+976,German,L1 - Mother Tongue
+976,English,C1 - Upper intermediate
+976,French,B2 - Intermediate
+978,English,C1 - Upper intermediate
+978,German,B2 - Intermediate
+978,Portuguese,C1 - Upper intermediate
+978,Catalan,L1 - Mother Tongue
+978,Spanish,L1 - Mother Tongue
+980,Spanish,L1 - Mother Tongue
+980,Catalan,L1 - Mother Tongue
+980,English,B1 - Pre-intermediate
+983,Dutch,B1 - Pre-intermediate
+983,English,C1 - Upper intermediate
+983,French,C1 - Upper intermediate
+983,Italian,A1 - Beginner
+983,German,L1 - Mother Tongue
+984,German,L1 - Mother Tongue
+984,Italian,L1 - Mother Tongue
+984,Russian,B2 - Intermediate
+984,French,C1 - Upper intermediate
+984,English,C1 - Upper intermediate
+984,Spanish,B2 - Intermediate
+985,Spanish,L1 - Mother Tongue
+985,Catalan,L1 - Mother Tongue
+985,English,C2 - Advanced
+985,Japanese,B1 - Pre-intermediate
+985,French,C2 - Advanced
+989,English,B2 - Intermediate
+989,Spanish,L1 - Mother Tongue
+991,Spanish,C1 - Upper intermediate
+991,English,C2 - Advanced
+991,German,A1 - Beginner
+991,Portuguese,L1 - Mother Tongue
+993,English,A2 - Elementary
+993,Spanish,L1 - Mother Tongue
+993,Catalan,C2 - Advanced
+994,Catalan,L1 - Mother Tongue
+994,Spanish,L1 - Mother Tongue
+994,English,C2 - Advanced
+994,Portuguese,C2 - Advanced
+998,Russian,B1 - Pre-intermediate
+998,Slovak,C2 - Advanced
+998,German,C2 - Advanced
+998,English,C2 - Advanced
+1001,English,B2 - Intermediate
+1001,French,A1 - Beginner
+1001,German,C1 - Upper intermediate
+1001,Romanian,L1 - Mother Tongue
+1005,English,B2 - Intermediate
+1005,Spanish,L1 - Mother Tongue
+1005,Catalan,L1 - Mother Tongue
+1006,Spanish,B2 - Intermediate
+1006,English,C2 - Advanced
+1006,Hungarian,L1 - Mother Tongue
+1006,German,L1 - Mother Tongue
+1007,Italian,L1 - Mother Tongue
+1007,Spanish,A2 - Elementary
+1007,English,B2 - Intermediate
+1008,English,C1 - Upper intermediate
+1008,Spanish,L1 - Mother Tongue
+1009,Spanish,C2 - Advanced
+1009,English,C2 - Advanced
+1009,Italian,L1 - Mother Tongue
+1012,Portuguese,L1 - Mother Tongue
+1012,Spanish,A2 - Elementary
+1012,English,C1 - Upper intermediate
+1015,English,C2 - Advanced
+1015,Spanish,L1 - Mother Tongue
+1015,Catalan,C1 - Upper intermediate
+1016,Spanish,L1 - Mother Tongue
+1017,English,C1 - Upper intermediate
+1017,French,B2 - Intermediate
+1017,Portuguese,B2 - Intermediate
+1017,Italian,A1 - Beginner
+1017,German,L1 - Mother Tongue
+1018,German,L1 - Mother Tongue
+1018,French,C2 - Advanced
+1018,Spanish,A2 - Elementary
+1018,English,C2 - Advanced
+1021,English,B2 - Intermediate
+1021,Filipino,B2 - Intermediate
+1023,English,C1 - Upper intermediate
+1023,French,A1 - Beginner
+1023,German,L1 - Mother Tongue
+1024,German,L1 - Mother Tongue
+1024,French,B1 - Pre-intermediate
+1024,English,C1 - Upper intermediate
+1025,French,A1 - Beginner
+1025,English,C2 - Advanced
+1025,Portuguese,A1 - Beginner
+1025,Spanish,L1 - Mother Tongue
+1027,Portuguese,B1 - Pre-intermediate
+1027,German,L1 - Mother Tongue
+1027,French,B2 - Intermediate
+1027,English,C1 - Upper intermediate
+1030,English,B2 - Intermediate
+1030,Filipino,L1 - Mother Tongue
+1031,French,A2 - Elementary
+1031,English,C2 - Advanced
+1031,Czech,C2 - Advanced
+1031,German,C2 - Advanced
+1031,Slovak,L1 - Mother Tongue
+1032,French,B1 - Pre-intermediate
+1032,English,C1 - Upper intermediate
+1032,Mandarin,A1 - Beginner
+1033,English,C2 - Advanced
+1033,Spanish,A2 - Elementary
+1036,French,L1 - Mother Tongue
+1036,German,A2 - Elementary
+1036,English,C1 - Upper intermediate
+1036,Swedish,A2 - Elementary
+1037,English,C2 - Advanced
+1037,French,L1 - Mother Tongue
+1037,Spanish,A2 - Elementary
+1042,Hebrew,B2 - Intermediate
+1042,French,L1 - Mother Tongue
+1042,English,C2 - Advanced
+1044,English,B1 - Pre-intermediate
+1044,French,L1 - Mother Tongue
+1044,Spanish,A2 - Elementary
+1046,French,L1 - Mother Tongue
+1046,German,A2 - Elementary
+1046,English,B2 - Intermediate
+1047,French,B2 - Intermediate
+1047,English,L1 - Mother Tongue
+1047,Danish,L1 - Mother Tongue
+1047,German,B2 - Intermediate
+1047,Norwegian,C2 - Advanced
+1047,Swedish,C2 - Advanced
+1049,French,L1 - Mother Tongue
+1049,English,C2 - Advanced
+1050,English,C2 - Advanced
+1050,Danish,C1 - Upper intermediate
+1050,French,L1 - Mother Tongue
+1050,German,A1 - Beginner
+1051,English,B2 - Intermediate
+1051,Spanish,L1 - Mother Tongue
+1051,Catalan,L1 - Mother Tongue
+1055,English,B2 - Intermediate
+1055,German,L1 - Mother Tongue
+1055,Italian,L1 - Mother Tongue
+1057,French,B2 - Intermediate
+1057,English,C2 - Advanced
+1057,Catalan,L1 - Mother Tongue
+1057,Spanish,L1 - Mother Tongue
+1060,Spanish,L1 - Mother Tongue
+1060,Catalan,L1 - Mother Tongue
+1060,English,B1 - Pre-intermediate
+1061,Czech,B2 - Intermediate
+1061,English,B2 - Intermediate
+1061,Slovak,L1 - Mother Tongue
+1061,German,A2 - Elementary
+1062,English,C1 - Upper intermediate
+1062,French,A2 - Elementary
+1062,Catalan,L1 - Mother Tongue
+1062,Spanish,L1 - Mother Tongue
+1064,Spanish,L1 - Mother Tongue
+1064,Catalan,L1 - Mother Tongue
+1064,English,C2 - Advanced
+1065,French,B1 - Pre-intermediate
+1065,English,C1 - Upper intermediate
+1065,Romanian,L1 - Mother Tongue
+1069,German,B2 - Intermediate
+1069,French,B2 - Intermediate
+1069,English,L1 - Mother Tongue
+1069,Dutch,L1 - Mother Tongue
+1069,Catalan,B1 - Pre-intermediate
+1069,Spanish,C1 - Upper intermediate
+1070,English,C2 - Advanced
+1070,French,L1 - Mother Tongue
+1072,Italian,L1 - Mother Tongue
+1072,English,C2 - Advanced
+1072,French,A1 - Beginner
+1072,Spanish,C2 - Advanced
+1072,Catalan,A1 - Beginner
+1074,English,B2 - Intermediate
+1074,Slovak,L1 - Mother Tongue
+1074,German,A2 - Elementary
+1078,German,L1 - Mother Tongue
+1078,English,C1 - Upper intermediate
+1078,French,B1 - Pre-intermediate
+1079,French,A2 - Elementary
+1079,English,C2 - Advanced
+1079,German,L1 - Mother Tongue
+1082,German,B1 - Pre-intermediate
+1082,Slovak,L1 - Mother Tongue
+1082,Czech,L1 - Mother Tongue
+1082,English,C1 - Upper intermediate
+1082,Spanish,B2 - Intermediate
+1086,French,C1 - Upper intermediate
+1086,English,C2 - Advanced
+1086,Romanian,L1 - Mother Tongue
+1086,German,A1 - Beginner
+1087,English,B2 - Intermediate
+1087,Spanish,L1 - Mother Tongue
+1087,Catalan,L1 - Mother Tongue
+1088,English,C2 - Advanced
+1088,Romanian,L1 - Mother Tongue
+1090,Slovak,L1 - Mother Tongue
+1090,English,B2 - Intermediate
+1092,English,A2 - Elementary
+1092,Spanish,L1 - Mother Tongue
+1094,Arabic,L1 - Mother Tongue
+1094,English,C2 - Advanced
+1094,Czech,L1 - Mother Tongue
+1094,Slovak,L1 - Mother Tongue
+1094,German,C1 - Upper intermediate
+1099,English,C2 - Advanced
+1099,Catalan,L1 - Mother Tongue
+1099,Spanish,L1 - Mother Tongue
+1101,English,B2 - Intermediate
+1103,English,C2 - Advanced
+1103,French,L1 - Mother Tongue
+1103,Spanish,B2 - Intermediate
+1103,Arabic,L1 - Mother Tongue
+1106,German,B2 - Intermediate
+1106,English,C1 - Upper intermediate
+1107,English,B2 - Intermediate
+1107,German,B1 - Pre-intermediate
+1107,Romanian,C1 - Upper intermediate
+1107,Hungarian,L1 - Mother Tongue
+1112,Slovak,L1 - Mother Tongue
+1112,German,C2 - Advanced
+1112,English,C1 - Upper intermediate
+1113,English,B2 - Intermediate
+1113,French,A1 - Beginner
+1113,Catalan,L1 - Mother Tongue
+1113,Spanish,L1 - Mother Tongue
+1115,English,C2 - Advanced
+1115,German,B1 - Pre-intermediate
+1115,Greek,L1 - Mother Tongue
+1123,Spanish,B1 - Pre-intermediate
+1123,German,B1 - Pre-intermediate
+1123,Czech,C1 - Upper intermediate
+1123,English,C1 - Upper intermediate
+1127,English,A2 - Elementary
+1127,Spanish,L1 - Mother Tongue
+1127,Catalan,L1 - Mother Tongue
+1130,Catalan,L1 - Mother Tongue
+1130,Spanish,L1 - Mother Tongue
+1130,English,C2 - Advanced
+1135,Dutch,L1 - Mother Tongue
+1140,English,C1 - Upper intermediate
+1140,Spanish,L1 - Mother Tongue
+1140,Catalan,L1 - Mother Tongue
+1147,Spanish,L1 - Mother Tongue
+1147,French,B1 - Pre-intermediate
+1147,English,C2 - Advanced
+1147,Italian,A1 - Beginner
+1149,English,B2 - Intermediate
+1149,Spanish,L1 - Mother Tongue
+1149,Catalan,L1 - Mother Tongue
+1150,Spanish,L1 - Mother Tongue
+1150,English,B2 - Intermediate
