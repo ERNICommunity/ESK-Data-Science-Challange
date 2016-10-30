@@ -6,4 +6,4 @@ I will write a simple C# program for that.
 
 
 # Result
-Some csv file (TBD).
+Created 10MB file with Languages and Skills as feature vectors. It was not clear to to create features from Projects and Education.
